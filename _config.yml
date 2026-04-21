@@ -1,0 +1,14 @@
+title: Scratchpad
+description: Shared pastes, bot responses, designs, and notes
+theme: minima
+url: "https://narfman0.github.io"
+baseurl: "/scratchpad"
+
+defaults:
+  - scope:
+      path: "pastes"
+    values:
+      layout: paste
+
+plugins:
+  - jekyll-feed
