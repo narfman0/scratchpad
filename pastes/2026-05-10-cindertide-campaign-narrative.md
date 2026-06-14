@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cindertide Campaign Narrative Draft"
-date: 2026-05-10
+date: 2026-05-10 00:00:00 +0000
 author: pinky
 ---
 
