@@ -1,0 +1,1090 @@
+---
+title: "One Piece rename plan"
+date: 2026-10-16 15:59:21 +0000
+author: hermes
+---
+
+# One Piece rename plan (1012 files)
+
+Absolute episode number → TheTVDB aired order (same mapping Plex's agent uses for files that already carry titles). Show folder stays `One Piece`; files move into `Season NN/` folders; the 9 old arc folders are removed once empty.
+
+**Special cases:** 492A/B and 542A/B (Toriko crossover, 2-part split) → `- pt1` / `- pt2` of one episode. 590 (47 min Dream 9 crossover, not in TVDB's regular numbering) → `Specials/S00E39`.
+
+
+## Season 01
+
+- `[MyAnimeplanet] One Piece 001.mkv` → `One Piece (1999) - S01E01 - I'm Luffy! The Man Who's Gonna Be King of the Pirates!.mkv`
+- `[MyAnimeplanet] One Piece 002.mkv` → `One Piece (1999) - S01E02 - Enter the Great Swordsman! Pirate Hunter Roronoa Zoro!.mkv`
+- `[MyAnimeplanet] One Piece 003.mkv` → `One Piece (1999) - S01E03 - Morgan versus Luffy! Who's the Mysterious Pretty Girl.mkv`
+- `[MyAnimeplanet] One Piece 004.mkv` → `One Piece (1999) - S01E04 - Luffy's Past! Enter Red-Haired Shanks!.mkv`
+- `[MyAnimeplanet] One Piece 005.mkv` → `One Piece (1999) - S01E05 - A Terrifying Mysterious Power! Captain Buggy, the Clown Pirate!.mkv`
+- `[MyAnimeplanet] One Piece 006.mkv` → `One Piece (1999) - S01E06 - Desperate Situation! Beast Tamer Mohji Vs. Luffy!.mkv`
+- `[MyAnimeplanet] One Piece 007.mkv` → `One Piece (1999) - S01E07 - Epic Showdown! Swordsman Zoro Vs. Acrobat Cabaji!.mkv`
+- `[MyAnimeplanet] One Piece 008.mkv` → `One Piece (1999) - S01E08 - Who Is the Victor Devil Fruit Power Showdown!.mkv`
+
+## Season 02
+
+- `[MyAnimeplanet] One Piece 009.mkv` → `One Piece (1999) - S02E01 - The Honorable Liar Captain Usopp!.mkv`
+- `[MyAnimeplanet] One Piece 010.mkv` → `One Piece (1999) - S02E02 - The Weirdest Guy Ever! Jango the Hypnotist!.mkv`
+- `[MyAnimeplanet] One Piece 011.mkv` → `One Piece (1999) - S02E03 - Expose the Plot! Pirate Butler, Captain Kuro!.mkv`
+- `[MyAnimeplanet] One Piece 012.mkv` → `One Piece (1999) - S02E04 - Clash with the Black Cat Pirates! The Great Battle on the Slope!.mkv`
+- `[MyAnimeplanet] One Piece 013.mkv` → `One Piece (1999) - S02E05 - The Terrifying Duo! Meowban Brothers vs. Zoro!.mkv`
+- `[MyAnimeplanet] One Piece 014.mkv` → `One Piece (1999) - S02E06 - Luffy Back in Action! Miss Kaya's Desperate Resistance!.mkv`
+- `[MyAnimeplanet] One Piece 015.mkv` → `One Piece (1999) - S02E07 - Beat Kuro! Usopp the Man's Tearful Resolve!.mkv`
+- `[MyAnimeplanet] One Piece 016.mkv` → `One Piece (1999) - S02E08 - Protect Kaya! The Usopp Pirates' Great Efforts!.mkv`
+- `[MyAnimeplanet] One Piece 017.mkv` → `One Piece (1999) - S02E09 - Anger Explosion! Kuro vs. Luffy! How it Ends!.mkv`
+- `[MyAnimeplanet] One Piece 018.mkv` → `One Piece (1999) - S02E10 - You're the Weird Creature! Gaimon and His Strange Friends!.mkv`
+- `[MyAnimeplanet] One Piece 019.mkv` → `One Piece (1999) - S02E11 - The Three-Sword Style's Past! Zoro and Kuina's Vow!.mkv`
+- `[MyAnimeplanet] One Piece 020.mkv` → `One Piece (1999) - S02E12 - Famous Cook! Sanji of the Sea Restaurant!.mkv`
+- `[MyAnimeplanet] One Piece 021.mkv` → `One Piece (1999) - S02E13 - Unwelcome Customer! Sanji's Food and Ghin's Debt!.mkv`
+- `[MyAnimeplanet] One Piece 022.mkv` → `One Piece (1999) - S02E14 - The Strongest Pirate Fleet! Commodore Don Krieg!.mkv`
+- `[MyAnimeplanet] One Piece 023.mkv` → `One Piece (1999) - S02E15 - Protect Baratie! The Great Pirate, Red Foot Zeff!.mkv`
+- `[MyAnimeplanet] One Piece 024.mkv` → `One Piece (1999) - S02E16 - Hawk-Eye Mihawk! The Great Swordsman Zoro Falls at Sea!.mkv`
+- `[MyAnimeplanet] One Piece 025.mkv` → `One Piece (1999) - S02E17 - The Deadly Foot Technique Bursts Forth! Sanji Vs. the Invincible Pearl!.mkv`
+- `[MyAnimeplanet] One Piece 026.mkv` → `One Piece (1999) - S02E18 - Zeff and Sanji's Dream! the Illusory All Blue!.mkv`
+- `[MyAnimeplanet] One Piece 027.mkv` → `One Piece (1999) - S02E19 - Cool-headed, Cold-hearted Demon! Pirate Fleet Chief Commander Ghin!.mkv`
+- `[MyAnimeplanet] One Piece 028.mkv` → `One Piece (1999) - S02E20 - I Won't Die! Fierce Battle, Luffy Vs. Krieg!.mkv`
+- `[MyAnimeplanet] One Piece 029.mkv` → `One Piece (1999) - S02E21 - The Conclusion of the Deadly Battle! A Spear of Blind Determination!.mkv`
+- `[MyAnimeplanet] One Piece 030.mkv` → `One Piece (1999) - S02E22 - Set Sail! The Seafaring Cook Sets Off With Luffy!.mkv`
+
+## Season 03
+
+- `[MyAnimeplanet] One Piece 031.mkv` → `One Piece (1999) - S03E01 - The Worst Man in the Eastern Seas! Fishman Pirate Arlong!.mkv`
+- `[MyAnimeplanet] One Piece 032.mkv` → `One Piece (1999) - S03E02 - Witch of Cocoyashi Village! Arlong's Female Leader!.mkv`
+- `[MyAnimeplanet] One Piece 033.mkv` → `One Piece (1999) - S03E03 - Usopp Dead! When Is Luffy Going to Make Landfall!.mkv`
+- `[MyAnimeplanet] One Piece 034.mkv` → `One Piece (1999) - S03E04 - Everyone's Gathered! Usopp Speaks the Truth About Nami!.mkv`
+- `[MyAnimeplanet] One Piece 035.mkv` → `One Piece (1999) - S03E05 - Untold Past! Female Warrior Bellemere!.mkv`
+- `[MyAnimeplanet] One Piece 036.mkv` → `One Piece (1999) - S03E06 - Survive! Mother Bellemere and Nami's Bond!.mkv`
+- `[MyAnimeplanet] One Piece 037.mkv` → `One Piece (1999) - S03E07 - Luffy Rises! Result of the Broken Promise!.mkv`
+- `[MyAnimeplanet] One Piece 038.mkv` → `One Piece (1999) - S03E08 - Luffy in Big Trouble! Fishmen Vs. the Luffy Pirates!.mkv`
+- `[MyAnimeplanet] One Piece 039.mkv` → `One Piece (1999) - S03E09 - Luffy Submerged! Zoro Vs. Hatchan the Octopus!.mkv`
+- `[MyAnimeplanet] One Piece 040.mkv` → `One Piece (1999) - S03E10 - Proud Warriors! Sanji and Usopp's Fierce Battles!.mkv`
+- `[MyAnimeplanet] One Piece 041.mkv` → `One Piece (1999) - S03E11 - Luffy at Full Power! Nami's Determination and the Straw Hat!.mkv`
+- `[MyAnimeplanet] One Piece 042.mkv` → `One Piece (1999) - S03E12 - Explosion! Fishman Arlong's Fierce Assault from the Sea!.mkv`
+- `[MyAnimeplanet] One Piece 043.mkv` → `One Piece (1999) - S03E13 - End of the Fishman Empire! Nami's My Friend!.mkv`
+- `[MyAnimeplanet] One Piece 044.mkv` → `One Piece (1999) - S03E14 - Setting Out With a Smile! Farewell, Hometown Cocoyashi Village!.mkv`
+- `[MyAnimeplanet] One Piece 045.mkv` → `One Piece (1999) - S03E15 - Bounty! Straw Hat Luffy Becomes Known to the World!.mkv`
+- `[MyAnimeplanet] One Piece 046.mkv` → `One Piece (1999) - S03E16 - Chase Straw Hat! Little Buggy's Big Adventure!.mkv`
+- `[MyAnimeplanet] One Piece 047.mkv` → `One Piece (1999) - S03E17 - The Wait Is Over! The Return of Captain Buggy!.mkv`
+
+## Season 04
+
+- `[MyAnimeplanet] One Piece 048.mkv` → `One Piece (1999) - S04E01 - The Town of the Beginning and the End! Landfall at Logue Town!.mkv`
+- `[MyAnimeplanet] One Piece 049.mkv` → `One Piece (1999) - S04E02 - Kitetsu III and Yubashiri! Zoro's New Swords and the Woman Sergeant Major!.mkv`
+- `[MyAnimeplanet] One Piece 050.mkv` → `One Piece (1999) - S04E03 - Usopp Vs. Daddy the Parent! Showdown at High!.mkv`
+- `[MyAnimeplanet] One Piece 051.mkv` → `One Piece (1999) - S04E04 - Fiery Cooking Battle Sanji Vs. the Beautiful Chef!.mkv`
+- `[MyAnimeplanet] One Piece 052.mkv` → `One Piece (1999) - S04E05 - Buggy's Revenge! The Man Who Smiles On the Execution Platform!.mkv`
+- `[MyAnimeplanet] One Piece 053.mkv` → `One Piece (1999) - S04E06 - The Legend Has Started! Head for the Grand Line!.mkv`
+- `[MyAnimeplanet] One Piece 054.mkv` → `One Piece (1999) - S04E07 - Precursor to a New Adventure! Apis, a Mysterious Girl!.mkv`
+- `[MyAnimeplanet] One Piece 055.mkv` → `One Piece (1999) - S04E08 - Miraculous Creature! Apis's Secret and the Legendary Island!.mkv`
+- `[MyAnimeplanet] One Piece 056.mkv` → `One Piece (1999) - S04E09 - Eric Attacks! Great Escape from Warship Island!.mkv`
+- `[MyAnimeplanet] One Piece 057.mkv` → `One Piece (1999) - S04E10 - A Solitary Island in the Distant Sea! The Legendary Lost Island!.mkv`
+- `[MyAnimeplanet] One Piece 058.mkv` → `One Piece (1999) - S04E11 - Showdown in the Ruins! Tense Zoro Vs. Eric!.mkv`
+- `[MyAnimeplanet] One Piece 059.mkv` → `One Piece (1999) - S04E12 - Luffy, Completely Surrounded! Commodore Nelson's Secret Strategy!.mkv`
+- `[MyAnimeplanet] One Piece 060.mkv` → `One Piece (1999) - S04E13 - Through the Sky They Soar! The 1000 Year Legend Lives Again!.mkv`
+
+## Season 05
+
+- `[MyAnimeplanet] One Piece 061.mkv` → `One Piece (1999) - S05E01 - An Angry Showdown! Cross the Red Line!.mkv`
+- `[MyAnimeplanet] One Piece 062.mkv` → `One Piece (1999) - S05E02 - The First Line of Defense The Giant Whale Laboon Appears!.mkv`
+- `[MyAnimeplanet] One Piece 063.mkv` → `One Piece (1999) - S05E03 - A Promise Between Men! Luffy and the Whale Vow to Meet Again!.mkv`
+- `[MyAnimeplanet] One Piece 064.mkv` → `One Piece (1999) - S05E04 - A Town That Welcomes Pirates Setting Foot On Whisky Peak!.mkv`
+- `[MyAnimeplanet] One Piece 065.mkv` → `One Piece (1999) - S05E05 - Explosion! The Three Swords Style! Zoro Vs. Baroque Works!.mkv`
+- `[MyAnimeplanet] One Piece 066.mkv` → `One Piece (1999) - S05E06 - All-out Battle! Luffy Vs. Zoro, Mysterious Grand Duel!.mkv`
+- `[MyAnimeplanet] One Piece 067.mkv` → `One Piece (1999) - S05E07 - Deliver Princess Vivi! The Luffy Pirates Set Sail!.mkv`
+- `[MyAnimeplanet] One Piece 068.mkv` → `One Piece (1999) - S05E08 - Try Hard, Coby! Coby and Helmeppo's Struggles in the Marines!.mkv`
+- `[MyAnimeplanet] One Piece 069.mkv` → `One Piece (1999) - S05E09 - Coby and Helmeppo's Resolve! Vice-Admiral Garp's Parental Affection!.mkv`
+
+## Season 06
+
+- `[MyAnimeplanet] One Piece 070.mkv` → `One Piece (1999) - S06E01 - An Ancient Island! The Shadow Hiding in Little Garden!.mkv`
+- `[MyAnimeplanet] One Piece 071.mkv` → `One Piece (1999) - S06E02 - Huge Duel! The Giants Dorry and Broggy!.mkv`
+- `[MyAnimeplanet] One Piece 072.mkv` → `One Piece (1999) - S06E03 - Luffy Gets Angry! A Dirty Trick Violates the Sacred Duel!.mkv`
+- `[MyAnimeplanet] One Piece 073.mkv` → `One Piece (1999) - S06E04 - Broggy's Bitter Tears of Victory! The Conclusion of Elbaf!.mkv`
+- `[MyAnimeplanet] One Piece 074.mkv` → `One Piece (1999) - S06E05 - The Devilish Candle! Tears of Regret and Tears of Anger!.mkv`
+- `[MyAnimeplanet] One Piece 075.mkv` → `One Piece (1999) - S06E06 - A Hex on Luffy! Colors Trap!.mkv`
+- `[MyAnimeplanet] One Piece 076.mkv` → `One Piece (1999) - S06E07 - Time to Fight Back! Usopp's Quick Thinking and Fire Star!.mkv`
+- `[MyAnimeplanet] One Piece 077.mkv` → `One Piece (1999) - S06E08 - Farewell Giant Island! Head for Alabasta!.mkv`
+- `[MyAnimeplanet] One Piece 078.mkv` → `One Piece (1999) - S06E09 - Nami's Sick Beyond the Snow Falling On The Stars!.mkv`
+- `[MyAnimeplanet] One Piece 079.mkv` → `One Piece (1999) - S06E10 - A Raid! The Tin Tyrant and Tin Plate Wapol!.mkv`
+- `[MyAnimeplanet] One Piece 080.mkv` → `One Piece (1999) - S06E11 - An Island without Doctors Adventure in a Nameless Land!.mkv`
+- `[MyAnimeplanet] One Piece 081.mkv` → `One Piece (1999) - S06E12 - Are You Happy The Doctor Called Witch!.mkv`
+- `[MyAnimeplanet] One Piece 082.mkv` → `One Piece (1999) - S06E13 - Dalton's Resolve! Wapol's Corps Land on the Island!.mkv`
+- `[MyAnimeplanet] One Piece 083.mkv` → `One Piece (1999) - S06E14 - The Island Where Snow Lives! Climb the Drum Rockies!.mkv`
+- `[MyAnimeplanet] One Piece 084.mkv` → `One Piece (1999) - S06E15 - Blue-nosed Reindeer! Chopper's Secret!.mkv`
+- `[MyAnimeplanet] One Piece 085.mkv` → `One Piece (1999) - S06E16 - An Outcast's Dream! Hiriluk the Quack!.mkv`
+- `[MyAnimeplanet] One Piece 086.mkv` → `One Piece (1999) - S06E17 - Hiriluk's Cherry Blossoms and the Will that Gets Carried On!.mkv`
+- `[MyAnimeplanet] One Piece 087.mkv` → `One Piece (1999) - S06E18 - Fight Wapol's Crew! The Power of the Munch Munch Fruit!.mkv`
+- `[MyAnimeplanet] One Piece 088.mkv` → `One Piece (1999) - S06E19 - Zoan-type Devil Fruit! Chopper's Seven-form Transformation!.mkv`
+- `[MyAnimeplanet] One Piece 089.mkv` → `One Piece (1999) - S06E20 - When the Kingdom's Rule Ends! The Flag of Faith Flies Forever!.mkv`
+- `[MyAnimeplanet] One Piece 090.mkv` → `One Piece (1999) - S06E21 - Hiriluk's Cherry Blossoms! Miracle in the Drum Rockies!.mkv`
+- `[MyAnimeplanet] One Piece 091.mkv` → `One Piece (1999) - S06E22 - Goodbye Drum Island! I'm Going Out to Sea!.mkv`
+
+## Season 07
+
+- `[MyAnimeplanet] One Piece 092.mkv` → `One Piece (1999) - S07E01 - Alabasta's Hero and a Ballerina on the Ship!.mkv`
+- `[MyAnimeplanet] One Piece 093.mkv` → `One Piece (1999) - S07E02 - Off to the Desert Kingdom! The Rain-Summoning Powder and the Rebel Army!.mkv`
+- `[MyAnimeplanet] One Piece 094.mkv` → `One Piece (1999) - S07E03 - The Heroes' Reunion! His Name is Fire Fist Ace!.mkv`
+- `[MyAnimeplanet] One Piece 095.mkv` → `One Piece (1999) - S07E04 - Ace and Luffy! Hot Emotions and Brotherly Bonds!.mkv`
+- `[MyAnimeplanet] One Piece 096.mkv` → `One Piece (1999) - S07E05 - Erumalu, the City of Green and the Kung Fu Dugongs!.mkv`
+- `[MyAnimeplanet] One Piece 097.mkv` → `One Piece (1999) - S07E06 - Adventure in the Country of Sand! The Monsters that Live in the Scorching Land!.mkv`
+- `[MyAnimeplanet] One Piece 098.mkv` → `One Piece (1999) - S07E07 - Enter the Desert Pirates! The Men Who Live Freely!.mkv`
+- `[MyAnimeplanet] One Piece 099.mkv` → `One Piece (1999) - S07E08 - False Fortitude! Camu, Rebel Soldier at Heart!.mkv`
+- `[MyAnimeplanet] One Piece 100.mkv` → `One Piece (1999) - S07E09 - Rebel Warrior Koza! The Dream Vowed to Vivi!.mkv`
+- `[MyAnimeplanet] One Piece 101.mkv` → `One Piece (1999) - S07E10 - Showdown in a Heat Haze! Ace vs. the Gallant Scorpion!.mkv`
+- `[MyAnimeplanet] One Piece 102.mkv` → `One Piece (1999) - S07E11 - Ruins and Lost Ways! Vivi, Her Friends, and the Country's Form!.mkv`
+- `[MyAnimeplanet] One Piece 103.mkv` → `One Piece (1999) - S07E12 - Spiders Café at 8 o'Clock! The Enemy Leaders Gather!.mkv`
+- `[MyAnimeplanet] One Piece 104.mkv` → `One Piece (1999) - S07E13 - Luffy vs. Vivi! The Tearful Vow to Put Friends on the Line!.mkv`
+- `[MyAnimeplanet] One Piece 105.mkv` → `One Piece (1999) - S07E14 - The Battlefront of Alabasta! Rainbase, the City of Dreams!.mkv`
+- `[MyAnimeplanet] One Piece 106.mkv` → `One Piece (1999) - S07E15 - The Trap of Certain Defeat! Storming Raindinners!.mkv`
+- `[MyAnimeplanet] One Piece 107.mkv` → `One Piece (1999) - S07E16 - Operation Utopia Commences! The Swell of Rebellion Stirs!.mkv`
+- `[MyAnimeplanet] One Piece 108.mkv` → `One Piece (1999) - S07E17 - The Terrifying Banana Gators and Mr. Prince!.mkv`
+- `[MyAnimeplanet] One Piece 109.mkv` → `One Piece (1999) - S07E18 - The Key to a Great Comeback Escape! The Wax-Wax Ball!.mkv`
+- `[MyAnimeplanet] One Piece 110.mkv` → `One Piece (1999) - S07E19 - Merciless Mortal Combat! Luffy vs Crocodile!.mkv`
+- `[MyAnimeplanet] One Piece 111.mkv` → `One Piece (1999) - S07E20 - Dash For a Miracle! Alabasta Animal Land!.mkv`
+- `[MyAnimeplanet] One Piece 112.mkv` → `One Piece (1999) - S07E21 - Rebel Army vs. Royal Army! Showdown at Alubarna!.mkv`
+- `[MyAnimeplanet] One Piece 113.mkv` → `One Piece (1999) - S07E22 - Alubarna Grieves! The Fierce Captain Karoo!.mkv`
+- `[MyAnimeplanet] One Piece 114.mkv` → `One Piece (1999) - S07E23 - Sworn on a Friend's Dream! The Battle of Molehill, Block 4!.mkv`
+- `[MyAnimeplanet] One Piece 115.mkv` → `One Piece (1999) - S07E24 - Big Opening Day Today! The Copy-Copy Montage!.mkv`
+- `[MyAnimeplanet] One Piece 116.mkv` → `One Piece (1999) - S07E25 - Transformed into Nami! Bon Clay's Rapid-Fire Ballet Kenpo!.mkv`
+- `[MyAnimeplanet] One Piece 117.mkv` → `One Piece (1999) - S07E26 - Nami's Cyclone Advisory! Clima Tact Burst!.mkv`
+- `[MyAnimeplanet] One Piece 118.mkv` → `One Piece (1999) - S07E27 - Secret Passed Down In The Royal Family! The Ancient Weapon Pluton!.mkv`
+- `[MyAnimeplanet] One Piece 119.mkv` → `One Piece (1999) - S07E28 - Secret Of Powerful Swordplay! Ability To Cut Steel And The Rhythm Things Have!.mkv`
+- `[MyAnimeplanet] One Piece 120.mkv` → `One Piece (1999) - S07E29 - The Battle is Over! Koza Raises the White Flag!.mkv`
+- `[MyAnimeplanet] One Piece 121.mkv` → `One Piece (1999) - S07E30 - Where Vivi's Voice Gets Heard! The Hero Descends!.mkv`
+- `[MyAnimeplanet] One Piece 122.mkv` → `One Piece (1999) - S07E31 - Sand Croc and Water Luffy! The Second Round of the Duel!.mkv`
+- `[MyAnimeplanet] One Piece 123.mkv` → `One Piece (1999) - S07E32 - That Looks Croc-ish! Luffy, Run to the Royal Tomb!.mkv`
+- `[MyAnimeplanet] One Piece 124.mkv` → `One Piece (1999) - S07E33 - The Nightmare Draws Near! This is the Sand-Sand Clan's Secret Base!.mkv`
+- `[MyAnimeplanet] One Piece 125.mkv` → `One Piece (1999) - S07E34 - Magnificent Wings! My Name is Pell, Guardian Deity of the Country!.mkv`
+- `[MyAnimeplanet] One Piece 126.mkv` → `One Piece (1999) - S07E35 - I Will Surpass You! Rain Falls in Alabasta!.mkv`
+- `[MyAnimeplanet] One Piece 127.mkv` → `One Piece (1999) - S07E36 - A Farewell to Arms! Pirates and Different Ideas of Justice!.mkv`
+- `[MyAnimeplanet] One Piece 128.mkv` → `One Piece (1999) - S07E37 - The Pirates' Banquet And Operation Escape From Alabasta!.mkv`
+- `[MyAnimeplanet] One Piece 129.mkv` → `One Piece (1999) - S07E38 - It All Started On That Day! Vivi Tells The Story Of Her Adventure!.mkv`
+- `[MyAnimeplanet] One Piece 130.mkv` → `One Piece (1999) - S07E39 - Scent of Danger! The Seventh Member is Nico Robin!.mkv`
+
+## Season 08
+
+- `[MyAnimeplanet] One Piece 131.mkv` → `One Piece (1999) - S08E01 - The First Patient! The Untold Story Of The Rumble Ball!.mkv`
+- `[MyAnimeplanet] One Piece 132.mkv` → `One Piece (1999) - S08E02 - Uprising of the Navigator! For the Unyielding Dream!.mkv`
+- `[MyAnimeplanet] One Piece 133.mkv` → `One Piece (1999) - S08E03 - A Recipe Handed Down! Sanji, the Iron Man of Curry!.mkv`
+- `[MyAnimeplanet] One Piece 134.mkv` → `One Piece (1999) - S08E04 - I Will Make It Bloom! Usopp The Man And The Eight-Foot Shell!.mkv`
+- `[MyAnimeplanet] One Piece 135.mkv` → `One Piece (1999) - S08E05 - The Fabled Pirate Hunter! Zoro, The Wandering Swordsman!.mkv`
+- `[MyAnimeplanet] One Piece 136.mkv` → `One Piece (1999) - S08E06 - Zenny Of The Island Of Goats And The Pirate Ship In The Mountains!.mkv`
+- `[MyAnimeplanet] One Piece 137.mkv` → `One Piece (1999) - S08E07 - How's Tricks The Designs of Zenny the Moneylender!.mkv`
+- `[MyAnimeplanet] One Piece 138.mkv` → `One Piece (1999) - S08E08 - Whereabouts of the Island Treasure! Attack of the Zenny Pirates!.mkv`
+- `[MyAnimeplanet] One Piece 139.mkv` → `One Piece (1999) - S08E09 - Legend Of The Rainbow Mist! Old Man Henzo Of Luluka Island!.mkv`
+- `[MyAnimeplanet] One Piece 140.mkv` → `One Piece (1999) - S08E10 - Residents of the Land of Eternity! The Pumpkin Pirates!.mkv`
+- `[MyAnimeplanet] One Piece 141.mkv` → `One Piece (1999) - S08E11 - Thoughts of Home! The Pirate Graveyard of No Escape!.mkv`
+- `[MyAnimeplanet] One Piece 142.mkv` → `One Piece (1999) - S08E12 - An Inevitable Melee! Wetton's Schemes and the Rainbow Tower!.mkv`
+- `[MyAnimeplanet] One Piece 143.mkv` → `One Piece (1999) - S08E13 - And So, the Legend Begins! To the Other Side of the Rainbow!.mkv`
+
+## Season 09
+
+- `[MyAnimeplanet] One Piece 144.mkv` → `One Piece (1999) - S09E01 - The Log is Taken! Salvage King, Masira!.mkv`
+- `[MyAnimeplanet] One Piece 145.mkv` → `One Piece (1999) - S09E02 - Monsters Appear! Don't Touch the Whitebeard Pirates.mkv`
+- `[MyAnimeplanet] One Piece 146.mkv` → `One Piece (1999) - S09E03 - Stop Dreaming! The City of Ridicule, Mock Town!.mkv`
+- `[MyAnimeplanet] One Piece 147.mkv` → `One Piece (1999) - S09E04 - A Pirate's Height! The Man who Talks of Dreams and the King of Underwater Exploration.mkv`
+- `[MyAnimeplanet] One Piece 148.mkv` → `One Piece (1999) - S09E05 - The Legendary Family! 'Liar Norland'.mkv`
+- `[MyAnimeplanet] One Piece 149.mkv` → `One Piece (1999) - S09E06 - Hard Turn to the Clouds! Find the Southbird!.mkv`
+- `[MyAnimeplanet] One Piece 150.mkv` → `One Piece (1999) - S09E07 - Dreams Don't Come True! Bellamy vs. The Saruyama Alliance.mkv`
+- `[MyAnimeplanet] One Piece 151.mkv` → `One Piece (1999) - S09E08 - The 100 Million Man! The World's Greatest Authority and the Pirate Blackbeard.mkv`
+- `[MyAnimeplanet] One Piece 152.mkv` → `One Piece (1999) - S09E09 - Sail into the Sky! Ride the Knock-Up Stream.mkv`
+- `[MyAnimeplanet] One Piece 153.mkv` → `One Piece (1999) - S09E10 - This is the Sea of the Sky! The Knight of the Sky and Heaven's Gate.mkv`
+- `[MyAnimeplanet] One Piece 154.mkv` → `One Piece (1999) - S09E11 - Godland Skypiea! The Angels Of the Cloud Beach.mkv`
+- `[MyAnimeplanet] One Piece 155.mkv` → `One Piece (1999) - S09E12 - Forbidden Sacred Ground! The Island Where God Resides and Heaven's Judgement!.mkv`
+- `[MyAnimeplanet] One Piece 156.mkv` → `One Piece (1999) - S09E13 - Criminals Already! Skypiea's Upholders of the Law.mkv`
+- `[MyAnimeplanet] One Piece 157.mkv` → `One Piece (1999) - S09E14 - Can we Escape! God's Ordeals are Set in Motion!.mkv`
+- `[MyAnimeplanet] One Piece 158.mkv` → `One Piece (1999) - S09E15 - Trap on Lovely Street! Almighty God Enel.mkv`
+- `[MyAnimeplanet] One Piece 159.mkv` → `One Piece (1999) - S09E16 - Go Forth, Little Crow! To the Sacrificial Altar.mkv`
+- `[MyAnimeplanet] One Piece 160.mkv` → `One Piece (1999) - S09E17 - Survival Rate - 10%! Priest Satori with the Power of Mantra!.mkv`
+- `[MyAnimeplanet] One Piece 161.mkv` → `One Piece (1999) - S09E18 - Peril of the Ordeal of Balls! Fight to the Death in the Lost Forest.mkv`
+- `[MyAnimeplanet] One Piece 162.mkv` → `One Piece (1999) - S09E19 - Chopper's in Danger! Former God vs. Shinto priest Shura.mkv`
+- `[MyAnimeplanet] One Piece 163.mkv` → `One Piece (1999) - S09E20 - Ever Mysterious! Ordeal of String and Ordeal of Love!.mkv`
+- `[MyAnimeplanet] One Piece 164.mkv` → `One Piece (1999) - S09E21 - Light the Fire of Shandia! Wiper the Warrior.mkv`
+- `[MyAnimeplanet] One Piece 165.mkv` → `One Piece (1999) - S09E22 - Floating Land of Gold, Jaya! To God's Shrine!.mkv`
+- `[MyAnimeplanet] One Piece 166.mkv` → `One Piece (1999) - S09E23 - Eve of Gold Festival! Feelings Toward 'Vearth'!.mkv`
+- `[MyAnimeplanet] One Piece 167.mkv` → `One Piece (1999) - S09E24 - God Enel Appears! Aubade to the Survivors.mkv`
+- `[MyAnimeplanet] One Piece 168.mkv` → `One Piece (1999) - S09E25 - The Python Strikes! The Survival Game Begins.mkv`
+- `[MyAnimeplanet] One Piece 169.mkv` → `One Piece (1999) - S09E26 - The Life-Threatening Reject! War Demon Wiper's Resolve.mkv`
+- `[MyAnimeplanet] One Piece 170.mkv` → `One Piece (1999) - S09E27 - Fierce Sky Battle! Pirate Zoro vs. Fighter Braham.mkv`
+- `[MyAnimeplanet] One Piece 171.mkv` → `One Piece (1999) - S09E28 - Howling Burn Bazooka!! Pirate Luffy vs. Wiper the Berserker.mkv`
+- `[MyAnimeplanet] One Piece 172.mkv` → `One Piece (1999) - S09E29 - Ordeal of Swamp! Pirate Chopper vs Gedatsu!!.mkv`
+- `[MyAnimeplanet] One Piece 173.mkv` → `One Piece (1999) - S09E30 - The Invincible Ability! Enel's True Nature Revealed.mkv`
+- `[MyAnimeplanet] One Piece 174.mkv` → `One Piece (1999) - S09E31 - The Vanished City! The Magnificent Ruins of Shandora!!.mkv`
+- `[MyAnimeplanet] One Piece 175.mkv` → `One Piece (1999) - S09E32 - Chance of Survival - 0%!! Pirate Chopper vs. Shinto Priest Ohm.mkv`
+- `[MyAnimeplanet] One Piece 176.mkv` → `One Piece (1999) - S09E33 - Climb Giant Jack!! Showdown in the Upper Ruins.mkv`
+- `[MyAnimeplanet] One Piece 177.mkv` → `One Piece (1999) - S09E34 - Ultimate Test of the Ordeal of Iron! The White-Barbed Death Match!!.mkv`
+- `[MyAnimeplanet] One Piece 178.mkv` → `One Piece (1999) - S09E35 - Gushing Blade Attack! Pirate Zoro vs Shinto Priest Ohm!!.mkv`
+- `[MyAnimeplanet] One Piece 179.mkv` → `One Piece (1999) - S09E36 - The Upper Ruins Crumble! The Quintet Finale!!.mkv`
+- `[MyAnimeplanet] One Piece 180.mkv` → `One Piece (1999) - S09E37 - Battle in the Ancient Ruins! God Enel's Desire!!.mkv`
+- `[MyAnimeplanet] One Piece 181.mkv` → `One Piece (1999) - S09E38 - Ambitions of Fairy Vearth - The Ark, Maxim!!.mkv`
+- `[MyAnimeplanet] One Piece 182.mkv` → `One Piece (1999) - S09E39 - Finally Clashing! Pirate Luffy vs God Enel!!.mkv`
+- `[MyAnimeplanet] One Piece 183.mkv` → `One Piece (1999) - S09E40 - Maxim Rises! The Start of Deathpiea!!.mkv`
+- `[MyAnimeplanet] One Piece 184.mkv` → `One Piece (1999) - S09E41 - Luffy's Fall! God's Judgement and Nami's Desire!!.mkv`
+- `[MyAnimeplanet] One Piece 185.mkv` → `One Piece (1999) - S09E42 - Two People Awaken! A Rescue in Front of Burning Love!!.mkv`
+- `[MyAnimeplanet] One Piece 186.mkv` → `One Piece (1999) - S09E43 - Capriccio to Destruction! The Impending Doom of Sky Island!!.mkv`
+- `[MyAnimeplanet] One Piece 187.mkv` → `One Piece (1999) - S09E44 - Guidance from the Sound of a Bell! The Great Warrior and Tales of an Explorer.mkv`
+- `[MyAnimeplanet] One Piece 188.mkv` → `One Piece (1999) - S09E45 - Released from Disgrace! The Tears of the Great Warrior!!.mkv`
+- `[MyAnimeplanet] One Piece 189.mkv` → `One Piece (1999) - S09E46 - Eternal Friendship! The Bell of Oath Echoes Throughout the Giant Ocean!!.mkv`
+- `[MyAnimeplanet] One Piece 190.mkv` → `One Piece (1999) - S09E47 - The Destruction of Angel Island! Terror of The Descending Raigou!!.mkv`
+- `[MyAnimeplanet] One Piece 191.mkv` → `One Piece (1999) - S09E48 - Chop Down Giant Jack! The Last Hope of Escaping.mkv`
+- `[MyAnimeplanet] One Piece 192.mkv` → `One Piece (1999) - S09E49 - The Miracle in God's Country! A Love Song Heard by Angels.mkv`
+- `[MyAnimeplanet] One Piece 193.mkv` → `One Piece (1999) - S09E50 - The War Draws to a Close! Ringing War and Wide, the Proud Fantasia.mkv`
+- `[MyAnimeplanet] One Piece 194.mkv` → `One Piece (1999) - S09E51 - I Have Come Here! The Weaving of the Poneglyphs.mkv`
+- `[MyAnimeplanet] One Piece 195.mkv` → `One Piece (1999) - S09E52 - Now Heading Towards the Blue Sea! Memories of an Interwoven Finale.mkv`
+
+## Season 10
+
+- `[MyAnimeplanet] One Piece 196.mkv` → `One Piece (1999) - S10E01 - Emergency Announcement! An Infamous Pirate Ship has Invaded!.mkv`
+- `[MyAnimeplanet] One Piece 197.mkv` → `One Piece (1999) - S10E02 - Sanji the Chef! Demonstrating True Pride at the Marine Mess Hall!.mkv`
+- `[MyAnimeplanet] One Piece 198.mkv` → `One Piece (1999) - S10E03 - Zoro's Imprisonment and Chopper's Emergency Operation!.mkv`
+- `[MyAnimeplanet] One Piece 199.mkv` → `One Piece (1999) - S10E04 - The Marine Search Party Draws Near! Another of the Crew is Captured!.mkv`
+- `[MyAnimeplanet] One Piece 200.mkv` → `One Piece (1999) - S10E05 - Luffy and Sanji's Determination! The Great Escape Plan!.mkv`
+- `[MyAnimeplanet] One Piece 201.mkv` → `One Piece (1999) - S10E06 - The Squadron of Burning Souls Attack! Battle on the Bridge!.mkv`
+- `[MyAnimeplanet] One Piece 202.mkv` → `One Piece (1999) - S10E07 - Breaking Through Enemy Lines! The Rescue of the Going Merry!.mkv`
+- `[MyAnimeplanet] One Piece 203.mkv` → `One Piece (1999) - S10E08 - The Pirate Ship Disappears! Stronghold Battle, Round 2.mkv`
+- `[MyAnimeplanet] One Piece 204.mkv` → `One Piece (1999) - S10E09 - Operation Gold Recovery and Operation Waver Retrieval!.mkv`
+- `[MyAnimeplanet] One Piece 205.mkv` → `One Piece (1999) - S10E10 - The Pirate Round-Up Plan! Jonathon's Secret Winning Strategy!.mkv`
+- `[MyAnimeplanet] One Piece 206.mkv` → `One Piece (1999) - S10E11 - So Long, Marine Base! The Final Battle for Freedom.mkv`
+- `[MyAnimeplanet] One Piece 207.mkv` → `One Piece (1999) - S10E12 - Big Adventure in Long Ring Long Land.mkv`
+- `[MyAnimeplanet] One Piece 208.mkv` → `One Piece (1999) - S10E13 - The Foxy Pirate Crew and the Davy Back!.mkv`
+- `[MyAnimeplanet] One Piece 209.mkv` → `One Piece (1999) - S10E14 - Round 1! One Lap of the Donut Race.mkv`
+- `[MyAnimeplanet] One Piece 210.mkv` → `One Piece (1999) - S10E15 - Foxy the Silver Fox! A Violent Interference.mkv`
+- `[MyAnimeplanet] One Piece 211.mkv` → `One Piece (1999) - S10E16 - Round 2! Shoot into the Groggy Ring!.mkv`
+- `[MyAnimeplanet] One Piece 212.mkv` → `One Piece (1999) - S10E17 - Rapid-Fire Red Cards! Groggy Ring.mkv`
+- `[MyAnimeplanet] One Piece 213.mkv` → `One Piece (1999) - S10E18 - Round 3! Round and Round Roller Race!.mkv`
+- `[MyAnimeplanet] One Piece 214.mkv` → `One Piece (1999) - S10E19 - Burning Roller Race! Dash into the Final Round!.mkv`
+- `[MyAnimeplanet] One Piece 215.mkv` → `One Piece (1999) - S10E20 - The Screaming Speed Serve! Pirate Dodgeball!.mkv`
+- `[MyAnimeplanet] One Piece 216.mkv` → `One Piece (1999) - S10E21 - Final Match on the Edge! Dharma has Fallen!.mkv`
+- `[MyAnimeplanet] One Piece 217.mkv` → `One Piece (1999) - S10E22 - Captain Confrontation! The Last Fight - Combat!.mkv`
+- `[MyAnimeplanet] One Piece 218.mkv` → `One Piece (1999) - S10E23 - Full Power Noro Noro Beam vs The Invulnerable Luffy.mkv`
+- `[MyAnimeplanet] One Piece 219.mkv` → `One Piece (1999) - S10E24 - Heroic Fierce Combat! The Fateful Last Battle.mkv`
+- `[MyAnimeplanet] One Piece 220.mkv` → `One Piece (1999) - S10E25 - Lost Stolen Who are You.mkv`
+- `[MyAnimeplanet] One Piece 221.mkv` → `One Piece (1999) - S10E26 - The Mysterious Boy with the Whistle and Robin's Guess.mkv`
+- `[MyAnimeplanet] One Piece 222.mkv` → `One Piece (1999) - S10E27 - Get Back the Memories! The Pirates Land.mkv`
+- `[MyAnimeplanet] One Piece 223.mkv` → `One Piece (1999) - S10E28 - Zoro Sharpens His Fangs! A Fight with a Wild Animal.mkv`
+- `[MyAnimeplanet] One Piece 224.mkv` → `One Piece (1999) - S10E29 - The Real Memory Thief's Final Counterattack!.mkv`
+- `[MyAnimeplanet] One Piece 225.mkv` → `One Piece (1999) - S10E30 - The Man of Pride! Foxy the Silver Fox.mkv`
+- `[MyAnimeplanet] One Piece 226.mkv` → `One Piece (1999) - S10E31 - The Unbeatable Power Draws Near A Very Dangerous Man!.mkv`
+
+## Season 11
+
+- `[MyAnimeplanet] One Piece 227.mkv` → `One Piece (1999) - S11E01 - Marine High Admiral Aokiji! The Threat of the Greatest Power.mkv`
+- `[MyAnimeplanet] One Piece 228.mkv` → `One Piece (1999) - S11E02 - Rubber and Ice One-On-One Fight! Luffy vs Aokiji!.mkv`
+- `[MyAnimeplanet] One Piece 229.mkv` → `One Piece (1999) - S11E03 - Running Sea Train! The City of Water, Water 7.mkv`
+- `[MyAnimeplanet] One Piece 230.mkv` → `One Piece (1999) - S11E04 - The Adventure in the City of Water! Aim for the Giant Shipyard.mkv`
+- `[MyAnimeplanet] One Piece 231.mkv` → `One Piece (1999) - S11E05 - The Franky Family and Iceburg!.mkv`
+- `[MyAnimeplanet] One Piece 232.mkv` → `One Piece (1999) - S11E06 - Galley-La Company! The Magnificent Dock #1.mkv`
+- `[MyAnimeplanet] One Piece 233.mkv` → `One Piece (1999) - S11E07 - The Pirate Kidnapping Incident and the Pirate Ship Waits for Death!.mkv`
+- `[MyAnimeplanet] One Piece 234.mkv` → `One Piece (1999) - S11E08 - Rescuing a Friend! The Raid on the Franky House.mkv`
+- `[MyAnimeplanet] One Piece 235.mkv` → `One Piece (1999) - S11E09 - Quarrel in the Moonlight! The Pirate Ship Trembles in Sadness.mkv`
+- `[MyAnimeplanet] One Piece 236.mkv` → `One Piece (1999) - S11E10 - Luffy vs Usopp! The Spirit of the Clashing Men.mkv`
+- `[MyAnimeplanet] One Piece 237.mkv` → `One Piece (1999) - S11E11 - The City of Water is Shaking! Iceburg was Targeted!.mkv`
+- `[MyAnimeplanet] One Piece 238.mkv` → `One Piece (1999) - S11E12 - Rubberman vs Fire-Breathing Cyborg.mkv`
+- `[MyAnimeplanet] One Piece 239.mkv` → `One Piece (1999) - S11E13 - The Criminals are the Straw Hat Pirates The Bodyguards of Water 7.mkv`
+- `[MyAnimeplanet] One Piece 240.mkv` → `One Piece (1999) - S11E14 - An Eternal Farewell Nico Robin, The Woman Who Bears Darkness.mkv`
+- `[MyAnimeplanet] One Piece 241.mkv` → `One Piece (1999) - S11E15 - Catch Robin! The Determination of the Straw Hat Pirates.mkv`
+- `[MyAnimeplanet] One Piece 242.mkv` → `One Piece (1999) - S11E16 - The Signal is the Explosion! CP9 Starts to Move.mkv`
+- `[MyAnimeplanet] One Piece 243.mkv` → `One Piece (1999) - S11E17 - CP9 Unmasked! Their Shocking True Faces.mkv`
+- `[MyAnimeplanet] One Piece 244.mkv` → `One Piece (1999) - S11E18 - The Secret Bond! Franky and Iceburg.mkv`
+- `[MyAnimeplanet] One Piece 245.mkv` → `One Piece (1999) - S11E19 - Come Back, Robin! The Confrontation with CP9.mkv`
+- `[MyAnimeplanet] One Piece 246.mkv` → `One Piece (1999) - S11E20 - Destruction of the Straw Hat Pirates The Terror of the Model Leopard!.mkv`
+- `[MyAnimeplanet] One Piece 247.mkv` → `One Piece (1999) - S11E21 - The Man who is Loved by his Ship! Usopp's Tears!.mkv`
+- `[MyAnimeplanet] One Piece 248.mkv` → `One Piece (1999) - S11E22 - Franky's Past! The Day the Sea Train Ran.mkv`
+- `[MyAnimeplanet] One Piece 249.mkv` → `One Piece (1999) - S11E23 - Spandam's Conspiracy! The Day the Sea Train Shook.mkv`
+- `[MyAnimeplanet] One Piece 250.mkv` → `One Piece (1999) - S11E24 - The End of the Legendary Man! The Day the Sea Train Cried.mkv`
+- `[MyAnimeplanet] One Piece 251.mkv` → `One Piece (1999) - S11E25 - The Truth Behind the Betrayal! Robin's Sorrowful Decision!.mkv`
+- `[MyAnimeplanet] One Piece 252.mkv` → `One Piece (1999) - S11E26 - The Steam Whistle Separates the Group! The Sea Train Begins to Run.mkv`
+- `[MyAnimeplanet] One Piece 253.mkv` → `One Piece (1999) - S11E27 - Sanji Breaks In! The Sea Train Battle in the Storm!.mkv`
+- `[MyAnimeplanet] One Piece 254.mkv` → `One Piece (1999) - S11E28 - The Shout of Nami's Soul! The Return of the Straw Hat!.mkv`
+- `[MyAnimeplanet] One Piece 255.mkv` → `One Piece (1999) - S11E29 - Another Sea Train! Rocket Man Sortie.mkv`
+- `[MyAnimeplanet] One Piece 256.mkv` → `One Piece (1999) - S11E30 - Rescue our Friends! The Oath that Links the Enemies.mkv`
+- `[MyAnimeplanet] One Piece 257.mkv` → `One Piece (1999) - S11E31 - Smash the Wave! Luffy and Zoro, The Strongest Combo!.mkv`
+- `[MyAnimeplanet] One Piece 258.mkv` → `One Piece (1999) - S11E32 - A Man of Mystery Appears! His Name is Sogeking!.mkv`
+- `[MyAnimeplanet] One Piece 259.mkv` → `One Piece (1999) - S11E33 - Cook Confrontation! Sanji vs Ramen Kenpo.mkv`
+- `[MyAnimeplanet] One Piece 260.mkv` → `One Piece (1999) - S11E34 - Duel on the Roof! Franky vs Nero!.mkv`
+- `[MyAnimeplanet] One Piece 261.mkv` → `One Piece (1999) - S11E35 - Crash! Demon-Cutting Zoro vs Ship-Cutting T-Bone!.mkv`
+- `[MyAnimeplanet] One Piece 262.mkv` → `One Piece (1999) - S11E36 - Robin Struggles! Sogeking's Clever Scheme!!.mkv`
+- `[MyAnimeplanet] One Piece 263.mkv` → `One Piece (1999) - S11E37 - The Judiciary Island! The Full Picture of Enies Lobby!.mkv`
+- `[MyAnimeplanet] One Piece 264.mkv` → `One Piece (1999) - S11E38 - Operation Disembarkation Commences! The Straw Hat Crew Rushes In!.mkv`
+- `[MyAnimeplanet] One Piece 265.mkv` → `One Piece (1999) - S11E39 - Luffy Charges In! Great Decisive Battle on the Judiciary Island!.mkv`
+- `[MyAnimeplanet] One Piece 266.mkv` → `One Piece (1999) - S11E40 - Battle with the Giants! Open the Second Door!.mkv`
+- `[MyAnimeplanet] One Piece 267.mkv` → `One Piece (1999) - S11E41 - The Means of Escaping is Opened! Fly through the Sky, Rocketman!.mkv`
+- `[MyAnimeplanet] One Piece 268.mkv` → `One Piece (1999) - S11E42 - Catch Up with Luffy! The Straw Hat Pirates' All-Out War.mkv`
+- `[MyAnimeplanet] One Piece 269.mkv` → `One Piece (1999) - S11E43 - Robin was Betrayed! The Expectations of the World Government!.mkv`
+- `[MyAnimeplanet] One Piece 270.mkv` → `One Piece (1999) - S11E44 - Give Robin Back! Luffy vs. Blueno!.mkv`
+- `[MyAnimeplanet] One Piece 271.mkv` → `One Piece (1999) - S11E45 - Don't Stop! Raise the Signal Fire of a Counterattack!.mkv`
+- `[MyAnimeplanet] One Piece 272.mkv` → `One Piece (1999) - S11E46 - Luffy is in Sight! Gather at the Courthouse Plaza.mkv`
+- `[MyAnimeplanet] One Piece 273.mkv` → `One Piece (1999) - S11E47 - All for the Sake of Protecting My Friends! Gear Second in Motion.mkv`
+- `[MyAnimeplanet] One Piece 274.mkv` → `One Piece (1999) - S11E48 - Answer Us, Robin! The Outcries of the Straw Hat Crew!!.mkv`
+- `[MyAnimeplanet] One Piece 275.mkv` → `One Piece (1999) - S11E49 - Robin's Past! The Girl who was Called a Demon!.mkv`
+- `[MyAnimeplanet] One Piece 276.mkv` → `One Piece (1999) - S11E50 - The Fated Parent and Child! The Mother's Name is Olvia!.mkv`
+- `[MyAnimeplanet] One Piece 277.mkv` → `One Piece (1999) - S11E51 - Tragedy of Ohara! Fear of Buster Call!.mkv`
+- `[MyAnimeplanet] One Piece 278.mkv` → `One Piece (1999) - S11E52 - Say You Want to Live! We are Comrades!!!.mkv`
+- `[MyAnimeplanet] One Piece 279.mkv` → `One Piece (1999) - S11E53 - Jump Into the Falls! Luffy's Feelings!!.mkv`
+- `[MyAnimeplanet] One Piece 280.mkv` → `One Piece (1999) - S11E54 - A Man's Way of Life! Zoro's Techniques, Usopp's Dream.mkv`
+- `[MyAnimeplanet] One Piece 281.mkv` → `One Piece (1999) - S11E55 - Tears Which Weaved the Bond of Comrades! Nami's World Map.mkv`
+- `[MyAnimeplanet] One Piece 282.mkv` → `One Piece (1999) - S11E56 - Separation Refines a Man! Sanji and Chopper.mkv`
+- `[MyAnimeplanet] One Piece 283.mkv` → `One Piece (1999) - S11E57 - All for my Comrades' Sake! The Darkness Within Robin!.mkv`
+- `[MyAnimeplanet] One Piece 284.mkv` → `One Piece (1999) - S11E58 - The Blueprints Aren't Passed! Franky's Decision.mkv`
+- `[MyAnimeplanet] One Piece 285.mkv` → `One Piece (1999) - S11E59 - Retrieve the 5 Keys! The Straw Hat Crew vs CP9.mkv`
+- `[MyAnimeplanet] One Piece 286.mkv` → `One Piece (1999) - S11E60 - Power of the Devil Fruit! Kaku and Jyabura Transform.mkv`
+- `[MyAnimeplanet] One Piece 287.mkv` → `One Piece (1999) - S11E61 - Even if I Die, I Won't Kick You! Sanji's Manly Chivalry.mkv`
+- `[MyAnimeplanet] One Piece 288.mkv` → `One Piece (1999) - S11E62 - Fukurou's Miscalculation - My Cola is the Water of Life!.mkv`
+- `[MyAnimeplanet] One Piece 289.mkv` → `One Piece (1999) - S11E63 - Zoro's New Technique Explodes! The Katana's Name is Sogeking.mkv`
+- `[MyAnimeplanet] One Piece 290.mkv` → `One Piece (1999) - S11E64 - Uncontrollable! Chopper's Forbidden Rumble.mkv`
+- `[MyAnimeplanet] One Piece 291.mkv` → `One Piece (1999) - S11E65 - Boss Luffy Returns! A Dream or Reality Lottery Trouble.mkv`
+- `[MyAnimeplanet] One Piece 292.mkv` → `One Piece (1999) - S11E66 - The Great Mochimaki Race to the Castle! Conspiracy of the Red Nose.mkv`
+- `[MyAnimeplanet] One Piece 293.mkv` → `One Piece (1999) - S11E67 - Bubble User Kalifa! Nami Draws Near to the Soap's Trap.mkv`
+- `[MyAnimeplanet] One Piece 294.mkv` → `One Piece (1999) - S11E68 - The Resounding Bad News! The Buster Call is Invoked.mkv`
+- `[MyAnimeplanet] One Piece 295.mkv` → `One Piece (1999) - S11E69 - 5 Namis Counterattack with the Mirage!.mkv`
+- `[MyAnimeplanet] One Piece 296.mkv` → `One Piece (1999) - S11E70 - Nami's Determination! Shoot the Rampaging Chopper!.mkv`
+- `[MyAnimeplanet] One Piece 297.mkv` → `One Piece (1999) - S11E71 - Hunter Sanji Appears Elegy to the Lying Wolf.mkv`
+- `[MyAnimeplanet] One Piece 298.mkv` → `One Piece (1999) - S11E72 - Kick! Full Course of Sanji's Footwork.mkv`
+- `[MyAnimeplanet] One Piece 299.mkv` → `One Piece (1999) - S11E73 - The Drawn Sword's Fierce Attack! Zoro vs. Kaku Powerful Slash Showdown.mkv`
+- `[MyAnimeplanet] One Piece 300.mkv` → `One Piece (1999) - S11E74 - Zoro the Fierce God! The Incarnation of Asura Revealed by His Soul.mkv`
+- `[MyAnimeplanet] One Piece 301.mkv` → `One Piece (1999) - S11E75 - Spandam's Shock! A Hero Stands on the Tower of Justice.mkv`
+- `[MyAnimeplanet] One Piece 302.mkv` → `One Piece (1999) - S11E76 - Robin's Liberation! Luffy vs. Lucci - Peak of the Decisive Battle.mkv`
+- `[MyAnimeplanet] One Piece 303.mkv` → `One Piece (1999) - S11E77 - The Criminal is Boss Luffy Chase the Vanished Great Sakura Tree.mkv`
+- `[MyAnimeplanet] One Piece 304.mkv` → `One Piece (1999) - S11E78 - If I Can't Win, I Can't Protect Anyone! Gear Third Activates.mkv`
+- `[MyAnimeplanet] One Piece 305.mkv` → `One Piece (1999) - S11E79 - The Terrifying Past! Dark Justice and Rob Lucci.mkv`
+- `[MyAnimeplanet] One Piece 306.mkv` → `One Piece (1999) - S11E80 - A Phantom Mermaid is Here Within Fading Consciousness.mkv`
+- `[MyAnimeplanet] One Piece 307.mkv` → `One Piece (1999) - S11E81 - The Island Sinking in Gunfire! Franky's Outcry of Regret.mkv`
+- `[MyAnimeplanet] One Piece 308.mkv` → `One Piece (1999) - S11E82 - Wait for Luffy! Fight to the Death on the Bridge of Hesitation!.mkv`
+- `[MyAnimeplanet] One Piece 309.mkv` → `One Piece (1999) - S11E83 - Feelings Put Into Fists! Luffy's Full-Power Gatling.mkv`
+- `[MyAnimeplanet] One Piece 310.mkv` → `One Piece (1999) - S11E84 - A Friend Approaches from the Sea! The Straw Hat Crew's Strongest Bonds.mkv`
+- `[MyAnimeplanet] One Piece 311.mkv` → `One Piece (1999) - S11E85 - The Crew's Great Escape! The Victor's Path is for the Pirates.mkv`
+- `[MyAnimeplanet] One Piece 312.mkv` → `One Piece (1999) - S11E86 - Thank You Merry! The Sea of Separation in the Snow.mkv`
+- `[MyAnimeplanet] One Piece 313.mkv` → `One Piece (1999) - S11E87 - The Disturbance of Peace! The Vice-Admiral with the Fist of Love.mkv`
+- `[MyAnimeplanet] One Piece 314.mkv` → `One Piece (1999) - S11E88 - The Strongest Family Line Luffy's Father Revealed!.mkv`
+- `[MyAnimeplanet] One Piece 315.mkv` → `One Piece (1999) - S11E89 - Its Name is The New World! The Whereabouts of the Great Grand Line!.mkv`
+- `[MyAnimeplanet] One Piece 316.mkv` → `One Piece (1999) - S11E90 - Shanks Moves! Ceremony to the Rampaging Age.mkv`
+- `[MyAnimeplanet] One Piece 317.mkv` → `One Piece (1999) - S11E91 - The Girl Searching for the Yagara! Great Investigation in the Water Metropolis!.mkv`
+- `[MyAnimeplanet] One Piece 318.mkv` → `One Piece (1999) - S11E92 - The Mother is Strong! Zoro's Slapstick Housework Help.mkv`
+- `[MyAnimeplanet] One Piece 319.mkv` → `One Piece (1999) - S11E93 - Sanji Crashes! The Mysterious Old Man and Intense Cooking.mkv`
+- `[MyAnimeplanet] One Piece 320.mkv` → `One Piece (1999) - S11E94 - Everyone's Finally Wanted! The Crew of Over Six Hundred Million!.mkv`
+- `[MyAnimeplanet] One Piece 321.mkv` → `One Piece (1999) - S11E95 - The King of Beasts that will Cross the Ocean! The Dream Ship's Magnificent Completion!.mkv`
+- `[MyAnimeplanet] One Piece 322.mkv` → `One Piece (1999) - S11E96 - Goodbye my Lovable Followers! Franky Departs.mkv`
+- `[MyAnimeplanet] One Piece 323.mkv` → `One Piece (1999) - S11E97 - Departing the Water Metropolis! Distinction of the Manly Usopp's Duel.mkv`
+
+## Season 12
+
+- `[MyAnimeplanet] One Piece 326.mkv` → `One Piece (1999) - S12E01 - Mysterious Party of Pirates! The Sunny and a Dangerous Trap.mkv`
+- `[MyAnimeplanet] One Piece 327.mkv` → `One Piece (1999) - S12E02 - Sunny in a Pinch! Roar, Secret Superspeed Mecha.mkv`
+- `[MyAnimeplanet] One Piece 328.mkv` → `One Piece (1999) - S12E03 - The Dream Sinking in the New World! The Pirate of Despair, Puzzle.mkv`
+- `[MyAnimeplanet] One Piece 329.mkv` → `One Piece (1999) - S12E04 - The Assassins Attack! The Great Battle Above the Ice Begins.mkv`
+- `[MyAnimeplanet] One Piece 330.mkv` → `One Piece (1999) - S12E05 - The Hard Fights of the Straw Hat Crew! The Pirate Soul Banking it All on the Flag!.mkv`
+- `[MyAnimeplanet] One Piece 331.mkv` → `One Piece (1999) - S12E06 - Hot Full Throttle! The Twins' Magnetic Power Draws Near.mkv`
+- `[MyAnimeplanet] One Piece 332.mkv` → `One Piece (1999) - S12E07 - The Great Chaos Mansion! The Angry Don and the Imprisoned Crew.mkv`
+- `[MyAnimeplanet] One Piece 333.mkv` → `One Piece (1999) - S12E08 - The Phoenix Returns! The Dream of the Pirate Flag Sworn to a Friend.mkv`
+- `[MyAnimeplanet] One Piece 334.mkv` → `One Piece (1999) - S12E09 - The Red Hot Decisive Battle! Luffy vs. the Scorching Don.mkv`
+- `[MyAnimeplanet] One Piece 335.mkv` → `One Piece (1999) - S12E10 - Waiting in the New World! Farewell to the Courageous Pirates.mkv`
+- `[MyAnimeplanet] One Piece 336.mkv` → `One Piece (1999) - S12E11 - Chopperman Departs! Protect the TV Station by the Shore.mkv`
+- `[MyAnimeplanet] One Piece 337.mkv` → `One Piece (1999) - S12E12 - Venture Into the Devil's Sea! The Mysterious Skeleton Floating Through the Fog.mkv`
+- `[MyAnimeplanet] One Piece 338.mkv` → `One Piece (1999) - S12E13 - The Delight of Having Met People! The Gentleman Skeleton's True Colors.mkv`
+- `[MyAnimeplanet] One Piece 339.mkv` → `One Piece (1999) - S12E14 - One Phenomenon After Another! Disembarking at Thriller Bark.mkv`
+- `[MyAnimeplanet] One Piece 340.mkv` → `One Piece (1999) - S12E15 - The Man Called a Genius! Hogback Appears!.mkv`
+- `[MyAnimeplanet] One Piece 341.mkv` → `One Piece (1999) - S12E16 - Nami in Big Trouble! The Zombie Mansion and the Invisible Man.mkv`
+- `[MyAnimeplanet] One Piece 342.mkv` → `One Piece (1999) - S12E17 - Mystery of the Zombies! Hogback's Nightmarish Research Laboratory.mkv`
+- `[MyAnimeplanet] One Piece 343.mkv` → `One Piece (1999) - S12E18 - His Name is Moria! Trap of the Great Shadow-Stealing Pirate.mkv`
+- `[MyAnimeplanet] One Piece 344.mkv` → `One Piece (1999) - S12E19 - Feast of the Zombie Song! The Bell of the Night Raid is a Sound of Darkness.mkv`
+- `[MyAnimeplanet] One Piece 345.mkv` → `One Piece (1999) - S12E20 - Filled with Animals! Perona's Wonder Garden.mkv`
+- `[MyAnimeplanet] One Piece 346.mkv` → `One Piece (1999) - S12E21 - Disappearing Strawhat Crew! The Mysterious Swordsman Appears!.mkv`
+- `[MyAnimeplanet] One Piece 347.mkv` → `One Piece (1999) - S12E22 - Leftover Chivalry! The Traitorous Zombie who Protects Nami.mkv`
+- `[MyAnimeplanet] One Piece 348.mkv` → `One Piece (1999) - S12E23 - Coming from the Sky! That Man is the.mkv`
+- `[MyAnimeplanet] One Piece 349.mkv` → `One Piece (1999) - S12E24 - Luffy in an Emergency! The Living Place of the Strongest Shadow!.mkv`
+- `[MyAnimeplanet] One Piece 350.mkv` → `One Piece (1999) - S12E25 - The Warrior Called a Demon!! The Time of Oars's Resurrection.mkv`
+- `[MyAnimeplanet] One Piece 351.mkv` → `One Piece (1999) - S12E26 - Awakening After 500 Years!! Oars Revives!!.mkv`
+- `[MyAnimeplanet] One Piece 352.mkv` → `One Piece (1999) - S12E27 - Conviction Strong Enough to Beg for One's Life!! Brook Protects his Afro.mkv`
+- `[MyAnimeplanet] One Piece 353.mkv` → `One Piece (1999) - S12E28 - A Man's Oath will Never Die! From Far Memories to the Waiting Friend.mkv`
+- `[MyAnimeplanet] One Piece 354.mkv` → `One Piece (1999) - S12E29 - We will Definately Meet Again! Brook and the Promise of the Cape.mkv`
+- `[MyAnimeplanet] One Piece 355.mkv` → `One Piece (1999) - S12E30 - Food, Nami and Shadows!! Luffy's Angry Counterattack.mkv`
+- `[MyAnimeplanet] One Piece 356.mkv` → `One Piece (1999) - S12E31 - Usopp the Strongest Leave the Negatives to Me.mkv`
+- `[MyAnimeplanet] One Piece 357.mkv` → `One Piece (1999) - S12E32 - Sudden Death of the General Zombies!! Oars in an Adventurous Mood.mkv`
+- `[MyAnimeplanet] One Piece 358.mkv` → `One Piece (1999) - S12E33 - Sanji, the Knight of Flames!! Kick Down the False Ceremony.mkv`
+- `[MyAnimeplanet] One Piece 359.mkv` → `One Piece (1999) - S12E34 - Invisibility Connection Sanji's Stolen Dream.mkv`
+- `[MyAnimeplanet] One Piece 360.mkv` → `One Piece (1999) - S12E35 - Saving Hero!! The Enemy is the Invincible Princess.mkv`
+- `[MyAnimeplanet] One Piece 361.mkv` → `One Piece (1999) - S12E36 - Perona's Terror!! The U in Uso is the U in Usopp.mkv`
+- `[MyAnimeplanet] One Piece 362.mkv` → `One Piece (1999) - S12E37 - Slashes Dancing on the Roof!! Finale - Zoro vs. Ryuma.mkv`
+- `[MyAnimeplanet] One Piece 363.mkv` → `One Piece (1999) - S12E38 - Chopper`s Rage!! Hogback`s Demonic Medical Practice.mkv`
+- `[MyAnimeplanet] One Piece 364.mkv` → `One Piece (1999) - S12E39 - Oars Roars!! Come Out Straw Hat Crew.mkv`
+- `[MyAnimeplanet] One Piece 365.mkv` → `One Piece (1999) - S12E40 - The Enemy is Luffy!! The Strongest Zombie vs. the Straw Hat Crew.mkv`
+- `[MyAnimeplanet] One Piece 366.mkv` → `One Piece (1999) - S12E41 - Defeat Absalom!! Nami's Lightning Attack of Friendship!.mkv`
+- `[MyAnimeplanet] One Piece 367.mkv` → `One Piece (1999) - S12E42 - One Down!! Sure Kill Straw Hat Docking.mkv`
+- `[MyAnimeplanet] One Piece 368.mkv` → `One Piece (1999) - S12E43 - Soundless Invasion!! The Mysterious Visitor - Kuma the Tyrant.mkv`
+- `[MyAnimeplanet] One Piece 369.mkv` → `One Piece (1999) - S12E44 - Oars + Moria - The Greatest Combination of Brains and Brawn.mkv`
+- `[MyAnimeplanet] One Piece 370.mkv` → `One Piece (1999) - S12E45 - A Crazy Strategy to Turn the Tables - The Creation of Nightmare Luffy.mkv`
+- `[MyAnimeplanet] One Piece 371.mkv` → `One Piece (1999) - S12E46 - The Straw Hat crew annihilated! Full-throttle Kage Kage abilities!.mkv`
+- `[MyAnimeplanet] One Piece 372.mkv` → `One Piece (1999) - S12E47 - The Battle for Superiority Starts! Luffy vs. Luffy.mkv`
+- `[MyAnimeplanet] One Piece 373.mkv` → `One Piece (1999) - S12E48 - The Conclusion Arrives! Deliver the Finishing Blow.mkv`
+- `[MyAnimeplanet] One Piece 374.mkv` → `One Piece (1999) - S12E49 - The Bodies Vanish! The Morning Sun Pierces Through the Nightmare Island!.mkv`
+- `[MyAnimeplanet] One Piece 375.mkv` → `One Piece (1999) - S12E50 - The Endless Crisis! Orders to Obliterate the Straw Hat Crew.mkv`
+- `[MyAnimeplanet] One Piece 376.mkv` → `One Piece (1999) - S12E51 - Kuma`'s Nikyu Nikyu Abilities That Deflect Everything.mkv`
+- `[MyAnimeplanet] One Piece 377.mkv` → `One Piece (1999) - S12E52 - My Companions' Pain is My Pain - Zoro Prepares to Die.mkv`
+- `[MyAnimeplanet] One Piece 378.mkv` → `One Piece (1999) - S12E53 - The Promise on that Distant Day - The Song of Pirates and a Small Whale.mkv`
+- `[MyAnimeplanet] One Piece 379.mkv` → `One Piece (1999) - S12E54 - Brook`s Past - Sad Farewell to the Cheerful Crew.mkv`
+- `[MyAnimeplanet] One Piece 380.mkv` → `One Piece (1999) - S12E55 - Binks`s Sake - The Song that Connects the Past and Present.mkv`
+- `[MyAnimeplanet] One Piece 381.mkv` → `One Piece (1999) - S12E56 - A New Crewmate! Musician - The Hummer Brook.mkv`
+
+## Season 13
+
+- `[MyAnimeplanet] One Piece 382.mkv` → `One Piece (1999) - S13E01 - Noro Noro Menace - Return of Foxy the Silver Fox.mkv`
+- `[MyAnimeplanet] One Piece 383.mkv` → `One Piece (1999) - S13E02 - The Great Treasure Contest! Collapse! Spa Island.mkv`
+- `[MyAnimeplanet] One Piece 384.mkv` → `One Piece (1999) - S13E03 - Brook's Hard Struggle - The Difficult Path to Becoming a True Nakama.mkv`
+- `[MyAnimeplanet] One Piece 385.mkv` → `One Piece (1999) - S13E04 - Arriving at Halfway Through the Grand Line! The Red Line.mkv`
+- `[MyAnimeplanet] One Piece 386.mkv` → `One Piece (1999) - S13E05 - Hatred of the Straw Hat Crew - Enter Iron Mask Duval.mkv`
+- `[MyAnimeplanet] One Piece 387.mkv` → `One Piece (1999) - S13E06 - The Fated Reunion! Save the Imprisoned Fishman.mkv`
+- `[MyAnimeplanet] One Piece 388.mkv` → `One Piece (1999) - S13E07 - Tragedy! The Truth of the Unmasked Duval.mkv`
+- `[MyAnimeplanet] One Piece 389.mkv` → `One Piece (1999) - S13E08 - Explosion! The Sunny`s Super Secret Weapon - Gaon Cannon.mkv`
+- `[MyAnimeplanet] One Piece 390.mkv` → `One Piece (1999) - S13E09 - Landing to Get to Fishman Island - The Sabaody Archipelago.mkv`
+- `[MyAnimeplanet] One Piece 391.mkv` → `One Piece (1999) - S13E10 - Tyranny! The Rulers of Sabaody, the Celestial Dragons.mkv`
+- `[MyAnimeplanet] One Piece 392.mkv` → `One Piece (1999) - S13E11 - New Rivals Gather! The 11 Supernovas.mkv`
+- `[MyAnimeplanet] One Piece 393.mkv` → `One Piece (1999) - S13E12 - The Target is Caimie!! The Kidnappers` Evil Draws Near.mkv`
+- `[MyAnimeplanet] One Piece 394.mkv` → `One Piece (1999) - S13E13 - Rescue Caimie - The Dark History of the Archipelago.mkv`
+- `[MyAnimeplanet] One Piece 395.mkv` → `One Piece (1999) - S13E14 - Time Limit - The Human Auction Begins.mkv`
+- `[MyAnimeplanet] One Piece 396.mkv` → `One Piece (1999) - S13E15 - The Exploding Fist! Destroy the Auction.mkv`
+- `[MyAnimeplanet] One Piece 397.mkv` → `One Piece (1999) - S13E16 - Huge Panic! Struggle in the Auction Hall.mkv`
+- `[MyAnimeplanet] One Piece 398.mkv` → `One Piece (1999) - S13E17 - Admiral Kizaru Moves! The Sabaody Archipelago in Chaos.mkv`
+- `[MyAnimeplanet] One Piece 399.mkv` → `One Piece (1999) - S13E18 - Break Through the Encirclement! Marines vs. Three Captains.mkv`
+- `[MyAnimeplanet] One Piece 400.mkv` → `One Piece (1999) - S13E19 - Roger and Rayleigh - The Pirate King and His Right Hand.mkv`
+- `[MyAnimeplanet] One Piece 401.mkv` → `One Piece (1999) - S13E20 - Impossible to Avoid! Admiral Kizaru`s Speed of Light Kick.mkv`
+- `[MyAnimeplanet] One Piece 402.mkv` → `One Piece (1999) - S13E21 - Overwhelming! The Marine Combat Weapon Pacifista.mkv`
+- `[MyAnimeplanet] One Piece 403.mkv` → `One Piece (1999) - S13E22 - Another Strong Enemy Appears! Broadaxe-Wielding Sentomaru.mkv`
+- `[MyAnimeplanet] One Piece 404.mkv` → `One Piece (1999) - S13E23 - Admiral Kizaru's Fierce Attack. The Straw Hat Crew`s Desperate Situation!.mkv`
+- `[MyAnimeplanet] One Piece 405.mkv` → `One Piece (1999) - S13E24 - Disappearing Crewmates - The Final Day of the Straw Hat Crew.mkv`
+- `[MyAnimeplanet] One Piece 406.mkv` → `One Piece (1999) - S13E25 - Special Historical Arc - Boss Luffy Appears Again.mkv`
+- `[MyAnimeplanet] One Piece 407.mkv` → `One Piece (1999) - S13E26 - Special Historical Arc - Destroy! Thriller Company's Trap.mkv`
+- `[MyAnimeplanet] One Piece 408.mkv` → `One Piece (1999) - S13E27 - Landing! Young Men Forbidden Island Amazon Lily.mkv`
+- `[MyAnimeplanet] One Piece 409.mkv` → `One Piece (1999) - S13E28 - Hurry! Get back to your friends. Adventure on the Island of Women.mkv`
+- `[MyAnimeplanet] One Piece 410.mkv` → `One Piece (1999) - S13E29 - Everyone is Lovestruck! Pirate Empress Hancock.mkv`
+- `[MyAnimeplanet] One Piece 411.mkv` → `One Piece (1999) - S13E30 - The Secret Hidden on Their Backs, Luffy Encounters The Princess.mkv`
+- `[MyAnimeplanet] One Piece 412.mkv` → `One Piece (1999) - S13E31 - The Heartless Judgment! Margaret Turned to Stone!!.mkv`
+- `[MyAnimeplanet] One Piece 413.mkv` → `One Piece (1999) - S13E32 - Luffy's Hard Trial! The Power of the Snake Sisters' Willpower!.mkv`
+- `[MyAnimeplanet] One Piece 414.mkv` → `One Piece (1999) - S13E33 - Battle with Full-Powered Abilities! Gomu Gomu vs. Hebi Hebi.mkv`
+- `[MyAnimeplanet] One Piece 415.mkv` → `One Piece (1999) - S13E34 - Hancock's Confession - The Sisters' Disgusting Past.mkv`
+- `[AnimeRG] One Piece - 416 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E35 - Rescue Ace! The New Destination is the Great Prison.mkv`
+- `[AnimeRG] One Piece - 417 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E36 - Love is a Hurricane! Hancock Madly in Love.mkv`
+- `[AnimeRG] One Piece - 418 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E37 - The Crew's Whereabouts - Weather Science and Karakuri Island.mkv`
+- `[AnimeRG] One Piece - 419 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E38 - The Crew's Whereabouts - The Island of Giant Birds and the Pink Paradise!.mkv`
+- `[AnimeRG] One Piece - 420 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E39 - The Crew's Whereabouts - The Bridge that Connects Islands and Man-Eating Plants.mkv`
+- `[AnimeRG] One Piece - 421 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E40 - The Crew's Whereabouts - The Negative Princess and the Devil King!.mkv`
+- `[AnimeRG] One Piece - 422 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E41 - A Life-threatening Break-in! The Underwater Prison Impel Down!.mkv`
+- `[AnimeRG] One Piece - 423 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E42 - Reunion in Hell! The powerful User of the Bara Bara No Mi!.mkv`
+- `[AnimeRG] One Piece - 424 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E43 - Break through Crimson Hell! Buggys great Uproar Plan.mkv`
+- `[AnimeRG] One Piece - 425 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E44 - The Prison's strongest Man! Introduction of the Poison-Man Magellan.mkv`
+- `[AnimeRG] One Piece - 426 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E45 - A Special Presentation Related to the Movie! A Gold Lion's Ambition on the Move!.mkv`
+- `[AnimeRG] One Piece - 427 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E46 - A Special Presentation Related to the Movie! Little East Blue in Danger!.mkv`
+- `[AnimeRG] One Piece - 428 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E47 - A Special Presentation Related to the Movie! The Fierce Onslaught of the Amigo Pirates!.mkv`
+- `[AnimeRG] One Piece - 429 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E48 - A Special Presentation Related to the Movie! Luffy vs. Largo - The Battle is On!.mkv`
+- `[AnimeRG] One Piece - 430 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E49 - The Imprisoned Royal Shichibukai! Jinbei, Knight of the Sea.mkv`
+- `[AnimeRG] One Piece - 431 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E50 - The Trap of Chief Guard Saldeath - Level 3 Starvation Hell.mkv`
+- `[AnimeRG] One Piece - 432 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E51 - The Liberated Swan! Reunion! Bon Kurei.mkv`
+- `[AnimeRG] One Piece - 433 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E52 - Chief Warden Magellan Moves - The Net to Trap Straw Hat Is Complete!.mkv`
+- `[AnimeRG] One Piece - 434 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E53 - Preparations for War! A Decisive Battle in Level 4 - Inferno Hell.mkv`
+- `[AnimeRG] One Piece - 435 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E54 - Magellan's Strength! Bon Kurei Flees Before His Enemy Out!.mkv`
+- `[AnimeRG] One Piece - 436 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E55 - The Fight Finished! Luffy's Final Life-Risking Attack.mkv`
+- `[AnimeRG] One Piece - 437 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E56 - Because He's Our Friend - Bon Kurei's Do-or-Die Rescue.mkv`
+- `[AnimeRG] One Piece - 438 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E57 - A Paradise in Hell! Impel Down - Level 5.5!.mkv`
+- `[AnimeRG] One Piece - 439 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E58 - Luffy's Treatment Begins! Ivan-san's Miraculous Power!.mkv`
+- `[AnimeRG] One Piece - 440 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E59 - Believe in Miracles! Bon Clay's Cries From the Heart!.mkv`
+- `[AnimeRG] One Piece - 441 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E60 - Luffy's Back! Ivan-san Begins the Breakout Plan!.mkv`
+- `[AnimeRG] One Piece - 442 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E61 - Ace's Convoy Begins! Battle on the Lowest Floor - Level 6!.mkv`
+- `[AnimeRG] One Piece - 443 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E62 - The Ultimate Team Has Formed! Shaking Impel Down!.mkv`
+- `[AnimeRG] One Piece - 444 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E63 - Even More Chaos! Blackbeard Teach Invades!.mkv`
+- `[AnimeRG] One Piece - 445 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E64 - A Dangerous Meeting! Blackbeard and Shiryu of the Rain.mkv`
+- `[AnimeRG] One Piece - 446 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E65 - His Spirit Won't Break! Hannyabal Goes All Out.mkv`
+- `[AnimeRG] One Piece - 447 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E66 - The Jet Pistol of Rage - Luffy vs. Blackbeard.mkv`
+- `[AnimeRG] One Piece - 448 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E67 - Stop Magellan! Ivan-san Unleashes His Secret Attack.mkv`
+- `[AnimeRG] One Piece - 449 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E68 - Magellan's Scheme! The Jailbreak is Obstructed.mkv`
+- `[AnimeRG] One Piece - 450 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E69 - The Jailbreak Team Driven Into a Corner - Forbidden Move 'Venom Demon'.mkv`
+- `[AnimeRG] One Piece - 451 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E70 - Create the Final Miracle - Break Through the Gate of Justice.mkv`
+- `[AnimeRG] One Piece - 452 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E71 - The Destination is Marine Headquarters - The Ship Sets Out to Rescue Ace!.mkv`
+- `[AnimeRG] One Piece - 453 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E72 - The Friends' Whereabouts! Weatheria Report and Cyborg Animals.mkv`
+- `[AnimeRG] One Piece - 454 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E73 - The Friends' Whereabouts! A Cheeper of Giant Birds and a Pink Showdown!.mkv`
+- `[AnimeRG] One Piece - 455 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E74 - The Friends' Whereabouts! The Revolutionary Army and the Trap of the Forest of Gluttony!.mkv`
+- `[AnimeRG] One Piece - 456 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E75 - The Friends' Whereabouts! The Giant Gravestone and Panties of Gratitude.mkv`
+- `[AnimeRG] One Piece - 457 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E76 - Flashback Special Before Marineford - The Brothers' Oath!.mkv`
+- `[AnimeRG] One Piece - 458 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E77 - Flashback Special Before Marineford - The Three Admirals.mkv`
+- `[AnimeRG] One Piece - 459 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E78 - Ticking Down to the Time of Battle! The Navy's Strongest Lineup in Position!.mkv`
+- `[AnimeRG] One Piece - 460 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E79 - An Enormous Fleet Appears - The Whitebeard Pirates Invade.mkv`
+- `[AnimeRG] One Piece - 461 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E80 - The Beginning of the War - Ace and Whitebeard's Past!.mkv`
+- `[AnimeRG] One Piece - 462 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E81 - The Force That Could Destroy The World! The Power of the Tremor-Tremor Fruit!.mkv`
+- `[AnimeRG] One Piece - 463 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E82 - An All-Consuming Inferno!! Admiral Akainu's Power!.mkv`
+- `[AnimeRG] One Piece - 464 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E83 - Descendant of the Devil! Little Oars Jr. Rushes!.mkv`
+- `[AnimeRG] One Piece - 465 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E84 - The Winner Will Be Justice - Sengoku's Strategy Is Put Into Action!.mkv`
+- `[AnimeRG] One Piece - 466 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E85 - The Straw Hat Team Arrives - Tensions Grows on the Battlefield!.mkv`
+- `[AnimeRG] One Piece - 467 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E86 - Even If It Means Death! Luffy Vs. The Navy - The Battle Starts!.mkv`
+- `[AnimeRG] One Piece - 468 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E87 - Hard Battles, One After Another! Devil's Fruit Eaters vs. Devil's Fruit Eaters!.mkv`
+- `[AnimeRG] One Piece - 469 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E88 - Kuma's Transformation! Ivan's Attack of Anger!.mkv`
+- `[AnimeRG] One Piece - 470 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E89 - The Great Swordsman Mihawk! Luffy Comes Under the Attack of the Black Sword!.mkv`
+- `[AnimeRG] One Piece - 471 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E90 - The Extermination Strategy in Action! The Power of the Pacifistas!.mkv`
+- `[AnimeRG] One Piece - 472 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E91 - Akainu's Plot! Whitebeard Trapped!.mkv`
+- `[AnimeRG] One Piece - 473 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E92 - The Encircling Walls Activated! The Whitebeard Pirates Backed into a Corner!!.mkv`
+- `[AnimeRG] One Piece - 474 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E93 - The Order to Perform the Execution is Given - Break Through the Encircling Wall!.mkv`
+- `[AnimeRG] One Piece - 475 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E94 - Moving Into the Final Phase! Whitebeard's Trump Card for Recovery!.mkv`
+- `[AnimeRG] One Piece - 476 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E95 - Luffy's Strength is Exhausted! All-Out War in the Oris Plaza!.mkv`
+- `[AnimeRG] One Piece - 477 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E96 - Power that Reduces One's Life - Tension Hormones Return.mkv`
+- `[AnimeRG] One Piece - 478 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E97 - For a Promise!! Luffy and Coby Clash!.mkv`
+- `[AnimeRG] One Piece - 479 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E98 - The Scaffold At Last! The Way To Ace Has Opened!.mkv`
+- `[AnimeRG] One Piece - 480 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E99 - Each On Different Paths! Luffy vs. Garp!.mkv`
+- `[AnimeRG] One Piece - 481 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S13E100 - Ace is Rescued! Whitebeard's Final Captain's Orders!.mkv`
+
+## Season 14
+
+- `[AnimeRG] One Piece - 482 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E01 - The Power that Burns Fire - Akainu's Final Move.mkv`
+- `[AnimeRG] One Piece - 483 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E02 - Searching for an Answer - Fire Fist Ace Dies on the Battlefield.mkv`
+- `[AnimeRG] One Piece - 484 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E03 - Marine Headquarters Crumbles! Whitebeard's Silent Rage!.mkv`
+- `[AnimeRG] One Piece - 485 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E04 - Settling the Score - Whitebeard vs. The Blackbeard Pirates.mkv`
+- `[AnimeRG] One Piece - 486 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E05 - The Start of the Show - Blackbeard's Plot Revealed.mkv`
+- `[AnimeRG] One Piece - 487 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E06 - The Insatiable Akainu! Lava Fists Pummel Luffy!.mkv`
+- `[AnimeRG] One Piece - 488 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E07 - A Desperate Cry - Seconds of Valor that Change Destiny.mkv`
+- `[AnimeRG] One Piece - 489 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E08 - Enter Shanks! The Ultimate War Ends at Last.mkv`
+- `[AnimeRG] One Piece - 490 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E09 - Powerful Independent Rivals! The Beginning of the 'New Era'.mkv`
+- `[AnimeRG] One Piece - 491 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E10 - Arrival at the Island of Women - Cruel Reality Tortures Luffy.mkv`
+- `[AnimeRG] One Piece - 492A [720p] [Eng-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E11 - The Strongest Tag-Team! Luffy and Toriko's Hard Struggle! - pt1.mkv`
+- `[AnimeRG] One Piece - 492B [720p] [Eng-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E11 - The Strongest Tag-Team! Luffy and Toriko's Hard Struggle! - pt2.mkv`
+- `[AnimeRG] One Piece - 493 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E12 - Luffy and Ace - The Story of the Brothers' Meeting!.mkv`
+- `[AnimeRG] One Piece - 494 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E13 - Enter Sabo! The Boy From the Grey Terminal.mkv`
+- `[AnimeRG] One Piece - 495 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E14 - I Won't Run! Ace's Desperate Rescue Operation!.mkv`
+- `[AnimeRG] One Piece - 496 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E15 - One Day We'll Go Out to Sea! The Oath Cups of the Three Brats!.mkv`
+- `[AnimeRG] One Piece - 497 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E16 - Leaving the Dadan Family! The Secret Base is Complete!.mkv`
+- `[AnimeRG] One Piece - 498 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E17 - Luffy Becoming an Apprentice! A Man Who Fought Against the King of the Pirates!.mkv`
+- `[AnimeRG] One Piece - 499 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E18 - The Battle Against the Big Tiger! Who Will Be the Captain!.mkv`
+- `[AnimeRG] One Piece - 500 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E19 - Stolen Freedom! The Nobles' Trap Draws Near the Three Brothers.mkv`
+- `[AnimeRG] One Piece - 501 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E20 - The Flames Are Lit - The Gray Terminal's Crisis.mkv`
+- `[AnimeRG] One Piece - 502 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E21 - Where Is Freedom The Boy's Sad Departure.mkv`
+- `[AnimeRG] One Piece - 503 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E22 - I'm Counting On You! A Letter From a Brother!.mkv`
+- `[AnimeRG] One Piece - 504 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E23 - To Fulfill the Promise - Separate Departures!.mkv`
+- `[AnimeRG] One Piece - 505 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E24 - I Want to See Them! Luffy`s Tearful Scream.mkv`
+- `[AnimeRG] One Piece - 506 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E25 - Straw Hats In Shock! The Bad News Has Reached Them!.mkv`
+- `[AnimeRG] One Piece - 507 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E26 - Reunited with Dark King Rayleigh! Decision Time For Luffy!.mkv`
+- `[AnimeRG] One Piece - 508 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E27 - Back to Our Captain! A Jail Break at the Sky Island and the Incident on the Winter Island!.mkv`
+- `[AnimeRG] One Piece - 509 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E28 - Encounter! The great swordsman Mihawk! Zoro's self-willed deadly struggle!.mkv`
+- `[AnimeRG] One Piece - 510 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E29 - Sanji's Suffering - The Queen Returns to His Kingdom.mkv`
+- `[AnimeRG] One Piece - 511 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E30 - An Unbelievable Return! Luffy at the Marine Headquarters!.mkv`
+- `[AnimeRG] One Piece - 512 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E31 - Delivered to Friends - The Big News Comes Through!.mkv`
+- `[AnimeRG] One Piece - 513 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E32 - The Pirates Move Out! The Earth Shattering New World.mkv`
+- `[AnimeRG] One Piece - 514 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E33 - Live Through Hell - Sanji's Fight with Men at Stake.mkv`
+- `[AnimeRG] One Piece - 515 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E34 - I Will Get Much, Much Stronger! Zoro's Pledge to his Captain!.mkv`
+- `[AnimeRG] One Piece - 516 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S14E35 - Luffy's Training Begins - Meet Up at the Promised Place in Two Years.mkv`
+
+## Season 15
+
+- `[AnimeRG] One Piece - 517 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E01 - A New Chapter Opens - The Straw Hat Pirates Regather!.mkv`
+- `[AnimeRG] One Piece - 518 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E02 - An Explosive Situation! Luffy vs Fake Luffy.mkv`
+- `[AnimeRG] One Piece - 519 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E03 - The Marines Move Out - The Straw Hat Crew Is Targeted.mkv`
+- `[AnimeRG] One Piece - 520 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E04 - A Gathering of Big Shots - Threat of the Fake Straw Hat Crew.mkv`
+- `[AnimeRG] One Piece - 521 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E05 - The Battle Begins! Show Them the Fruits of Training!.mkv`
+- `[AnimeRG] One Piece - 522 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E06 - The Whole Crew is Gathered - Luffy Sets Sail Towards the New World.mkv`
+- `[AnimeRG] One Piece - 523 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E07 - A Shocking Revelation - The Man Who Protected the Sunny.mkv`
+- `[AnimeRG] One Piece - 524 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E08 - Undersea Struggle - The Demon of the Deep Appears.mkv`
+- `[AnimeRG] One Piece - 525 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E09 - Disaster in the Deep Sea, The Straw Hat Crew Gets Lost!.mkv`
+- `[AnimeRG] One Piece - 526 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E10 - Undersea Volcanic Eruption! Sailing To Fishman Island.mkv`
+- `[AnimeRG] One Piece - 527 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E11 - Landing at Fishman Island - The Lovely Mermaids.mkv`
+- `[AnimeRG] One Piece - 528 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E12 - Explosive Stimulation! Sanji's Life Crisis!.mkv`
+- `[AnimeRG] One Piece - 529 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E13 - Fishman Island Collapses! Shirley's Prediction.mkv`
+- `[AnimeRG] One Piece - 530 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E14 - The King of Fishman Island, Sea God Neptune!.mkv`
+- `[AnimeRG] One Piece - 531 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E15 - The Ryugu Castle! Brought by the Shark They Saved.mkv`
+- `[AnimeRG] One Piece - 532 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E16 - A Coward and a Crybaby! The Princess in the Hard Shell Tower.mkv`
+- `[AnimeRG] One Piece - 533 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E17 - State of Emergency! Ryugu Palace Taken Over!.mkv`
+- `[AnimeRG] One Piece - 534 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E18 - Ryugu Palace Quivers! The Case of the Kidnapped Shirahoshi.mkv`
+- `[AnimeRG] One Piece - 535 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E19 - Hordy's Invasion! The Beginning of the Plan for Revenge!.mkv`
+- `[AnimeRG] One Piece - 536 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E20 - The Ryugu Palace Fight! Zoro vs. Hody!.mkv`
+- `[AnimeRG] One Piece - 537 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E21 - Keep Shirahoshi Safe! Decken Close Behind!.mkv`
+- `[AnimeRG] One Piece - 538 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E22 - The Crew Falls! Hody Conquers Ryuuguu Palace.mkv`
+- `[AnimeRG] One Piece - 539 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E23 - Revived Relations, Nami and the Fishman Pirates.mkv`
+- `[AnimeRG] One Piece - 540 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E24 - The Hero Who Freed The Slaves - Tiger The Adventurer.mkv`
+- `[AnimeRG] One Piece - 541 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E25 - Kizaru Appears! A Trap Aimed At Tiger!.mkv`
+- `[AnimeRG] One Piece - 542A [720p] [Eng-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E26 - Toriko x One Piece Special - Team Formation! Save Chopper! - pt1.mkv`
+- `[AnimeRG] One Piece - 542B [720p] [Eng-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E26 - Toriko x One Piece Special - Team Formation! Save Chopper! - pt2.mkv`
+- `[AnimeRG] One Piece - 543 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E27 - The Hero's Last Moments! The Impact of Tiger's Truth.mkv`
+- `[AnimeRG] One Piece - 544 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E28 - The Pirates Split - Jinbe vs Arlong.mkv`
+- `[AnimeRG] One Piece - 545 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E29 - Fishman Island is Shaking! The Landing of a Tenryubito.mkv`
+- `[AnimeRG] One Piece - 546 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E30 - Unexpected Disaster! An Assassin's Bullet Shuts the Future.mkv`
+- `[AnimeRG] One Piece - 547 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E31 - Back to the Present! Hody Begins to Move.mkv`
+- `[AnimeRG] One Piece - 548 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E32 - A Great Shock to the Kingdom - Orders to Execute Neptune!.mkv`
+- `[AnimeRG] One Piece - 549 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E33 - A Crack Arises! Luffy vs Jinbe.mkv`
+- `[AnimeRG] One Piece - 550 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E34 - Hody's Accident - The Evil Drug's True Power!.mkv`
+- `[AnimeRG] One Piece - 551 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E35 - The Decisive Battle Begins at Gyoncorde Plaza!.mkv`
+- `[AnimeRG] One Piece - 552 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E36 - Shocking Confession - The Truth about Otohime's Assassination.mkv`
+- `[AnimeRG] One Piece - 553 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E37 - Shirahoshi's Tears! Finally, Luffy's Appearance!.mkv`
+- `[AnimeRG] One Piece - 554 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E38 - Big Clash! Straw Hat Group VS 100 000 Opponents.mkv`
+- `[AnimeRG] One Piece - 555 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E39 - Explosive Move! Zoro and Sanji Sally Forth!.mkv`
+- `[AnimeRG] One Piece - 556 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E40 - First Showing! Sunny's Secret Weapons!.mkv`
+- `[AnimeRG] One Piece - 557 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E41 - Iron Pirate! Entry of Franky Shogun.mkv`
+- `[AnimeRG] One Piece - 558 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E42 - Noah Approaching! The Crisis of Fishman Island's Destruction!.mkv`
+- `[AnimeRG] One Piece - 559 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E43 - Hurry Up, Luffy! Shirahoshi's Desperate Situation.mkv`
+- `[AnimeRG] One Piece - 560 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E44 - Beginning of the Battle! Luffy vs Hody!.mkv`
+- `[AnimeRG] One Piece - 561 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E45 - Battle Royal! The Group vs the New Fishman Pirates!.mkv`
+- `[AnimeRG] One Piece - 562 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E46 - Luffy is Defeated! The Hour of Hody's Revenge.mkv`
+- `[AnimeRG] One Piece - 563 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E47 - Shocking Truth! Hody's True Identity!.mkv`
+- `[AnimeRG] One Piece - 564 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E48 - To Zero! Passionate Desire to Luffy!.mkv`
+- `[AnimeRG] One Piece - 565 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E49 - Luffy's Whole Body Blow! Red Hawk Explosion.mkv`
+- `[AnimeRG] One Piece - 566 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E50 - Final Conclusion! Hody's Final Battle.mkv`
+- `[AnimeRG] One Piece - 567 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E51 - Stop Noah! Elephant Gatling of Desperation!.mkv`
+- `[AnimeRG] One Piece - 568 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E52 - To the Future! The Path Towards the Sun!.mkv`
+- `[AnimeRG] One Piece - 569 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E53 - Revealed Secret - The Truth of Ancient Weapons.mkv`
+- `[AnimeRG] One Piece - 570 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E54 - The Crew Is Surprised! The New Marine Fleet Admiral!.mkv`
+- `[AnimeRG] One Piece - 571 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E55 - I Love Sweets! The Yonko Big Mom.mkv`
+- `[AnimeRG] One Piece - 572 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E56 - Grim Prospects! A Trap that Waits in the New World.mkv`
+- `[AnimeRG] One Piece - 573 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E57 - Finally Setting Sail! Goodbye Fishman Island.mkv`
+- `[AnimeRG] One Piece - 574 [720p] [Dual-Audio] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E58 - To the New World! Aim for the Strongest Sea.mkv`
+- `[AnimeRG] One Piece - 575 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E59 - Z's Ambition Arc - The Little Giant Lily!.mkv`
+- `[AnimeRG] One Piece - 576 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E60 - Z's Ambition Arc - Introduction of the Mystery of the Strongest Army Corps!.mkv`
+- `[AnimeRG] One Piece - 577 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E61 - Z's Ambition Arc - A Desperate Big Escape Strategy!.mkv`
+- `[AnimeRG] One Piece - 578 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S15E62 - Z's Ambition Arc - Luffy VS Shuzo!.mkv`
+
+## Season 16
+
+- `[AnimeRG] One Piece - 579 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E01 - Landing! The Burning Island, Punk Hazard.mkv`
+- `[AnimeRG] One Piece - 580 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E02 - A Scorching Battle! Luffy vs. the Giant Dragon!.mkv`
+- `[AnimeRG] One Piece - 581 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E03 - The Crew is Confused! The Shocking Beheaded Samurai Appears!.mkv`
+- `[AnimeRG] One Piece - 582 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E04 - Shock ! The Secret of the Island is Finally Revealed !.mkv`
+- `[AnimeRG] One Piece - 583 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E05 - Save the Children! Gang Fight Starts!.mkv`
+- `[AnimeRG] One Piece - 584 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E06 - A Duel of Swordplay! Brook vs. the Mysterious Samurai Torso.mkv`
+- `[AnimeRG] One Piece - 585 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E07 - Shichibukai! Trafalgar Law.mkv`
+- `[AnimeRG] One Piece - 586 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E08 - A Big Pinch - Luffy Sinks Into the Cold Lake.mkv`
+- `[AnimeRG] One Piece - 587 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E09 - A Collision! Law vs. Vice Admiral Smoker!.mkv`
+- `[AnimeRG] One Piece - 588 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E10 - First Meeting in Two Years! Luffy and Law.mkv`
+- `[AnimeRG] One Piece - 589 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E11 - Worst of the World - The Scary Scientist Caesar.mkv`
+- `[AnimeRG] One Piece - 591 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E12 - Chopper Enraged Master's Tyrannical Experiments.mkv`
+- `[AnimeRG] One Piece - 592 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E13 - Gang Obliteration! Legendary Hitmen Attack!.mkv`
+- `[AnimeRG] One Piece - 593 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E14 - Save Nami! Luffy's Snow Mountain Battle.mkv`
+- `[AnimeRG] One Piece - 594 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E15 - Formation! The Pirate Alliance Luffy-Law!.mkv`
+- `[AnimeRG] One Piece - 595 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E16 - Capture Master ! The Pirate Alliance's Operation Begins!.mkv`
+- `[AnimeRG] One Piece - 596 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E17 - Destruction Crisis - The Monster of Death Flies in.mkv`
+- `[AnimeRG] One Piece - 597 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E18 - Big Battle ! Caesar Activates his True Ability!.mkv`
+- `[AnimeRG] One Piece - 598 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E19 - The Samurai that Cuts the Fire! Kin'emon of Foxfire.mkv`
+- `[AnimeRG] One Piece - 599 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E20 - Shock! Identity of Vergo, the Mysterious Man.mkv`
+- `[AnimeRG] One Piece - 600 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E21 - Protect the Children! Reach of Master's Evil Hand!.mkv`
+- `[AnimeRG] One Piece - 601 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E22 - New World's Severe Earthquake ! Caesar's Nightmare Experiment.mkv`
+- `[AnimeRG] One Piece - 602 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E23 - The Deadliest Weapon of Mass Destruction in History! Shinokuni!.mkv`
+- `[AnimeRG] One Piece - 603 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E24 - The Counterattack Begins! Luffy and Law's Great Escape.mkv`
+- `[AnimeRG] One Piece - 604 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E25 - The Aim is Building R! The Pirate Alliance's Great Assault!.mkv`
+- `[AnimeRG] One Piece - 605 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E26 - Tashigi's Tears - G5's Suicidal Breakthrough Strategy.mkv`
+- `[AnimeRG] One Piece - 606 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E27 - Vice Admiral's Betrayal! Demon Bamboo Vergo.mkv`
+- `[AnimeRG] One Piece - 607 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E28 - Incandescent Fierce Battle Luffy vs. Caesar.mkv`
+- `[AnimeRG] One Piece - 608 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E29 - The Mastermind in the Shadows! Doflamingo Moves!.mkv`
+- `[AnimeRG] One Piece - 609 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E30 - Luffy Dies from Exposure! The Spine-chilling Snow Woman Monet!.mkv`
+- `[AnimeRG] One Piece - 610 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E31 - Fist Fight! Two Vice Admirals Fight.mkv`
+- `[AnimeRG] One Piece - 611 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E32 - The Small Dragon! Momonosuke Appears.mkv`
+- `[AnimeRG] One Piece - 612 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E33 - Deadly Combat in Snowstorm The Straw Hats vs. the Snow Woman.mkv`
+- `[AnimeRG] One Piece - 613 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E34 - Showing Off His Techniques! Zoro's Formidable One-Sword Style!.mkv`
+- `[AnimeRG] One Piece - 614 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E35 - I'll Protect My Friends! Mocha's Desperate Escape.mkv`
+- `[AnimeRG] One Piece - 615 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E36 - Brownbeard's Bitterness! Luffy's Anger Attack.mkv`
+- `[AnimeRG] One Piece - 616 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E37 - Shocking Conclusion! White Hunter vs. Vergo!.mkv`
+- `[AnimeRG] One Piece - 617 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E38 - Caesar Defeated! The Strongest Grizzly Magnum.mkv`
+- `[AnimeRG] One Piece - 618 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E39 - Invasion! The Assassin From Dressrosa.mkv`
+- `[AnimeRG] One Piece - 619 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E40 - Rampage! The Invincible Franky Shogun.mkv`
+- `[AnimeRG] One Piece - 620 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E41 - Desperate Situation! Punk Hazard's Big Explosion.mkv`
+- `[AnimeRG] One Piece - 621 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E42 - Capture Caesar - General Cannon Blast.mkv`
+- `[AnimeRG] One Piece - 622 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E43 - Emotional Meeting! Momonosuke and Kin'emon.mkv`
+- `[AnimeRG] One Piece - 623 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E44 - Regretful Departure - Leaving Punk Hazard.mkv`
+- `[AnimeRG] One Piece - 624 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E45 - G-5's Annihilation! Doflamingo's Assault!.mkv`
+- `[AnimeRG] One Piece - 625 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E46 - Tension! Aokiji vs. Doflamingo.mkv`
+- `[AnimeRG] One Piece - 626 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E47 - Caesar has Disappeared! The Pirate Alliance Sallies.mkv`
+- `[AnimeRG] One Piece - 627 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E48 - Luffy Dies in the Sea! The Collapse of the Pirate Alliance.mkv`
+- `[AnimeRG] One Piece - 628 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S16E49 - A Major Turnaround! Luffy's Angry Iron Fist Strikes!.mkv`
+
+## Season 17
+
+- `[AnimeRG] One Piece - 629 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E01 - Startling! The Big News Shakes Up the New World!.mkv`
+- `[AnimeRG] One Piece - 630 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E02 - Adventure! The Country of Love and Passion, Dressrosa.mkv`
+- `[AnimeRG] One Piece - 631 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E03 - Swirling Madness! Corrida Colosseum.mkv`
+- `[AnimeRG] One Piece - 632 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E04 - Dangerous Love! Dancing Girl Violet.mkv`
+- `[AnimeRG] One Piece - 633 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E05 - A Formidable, Unknown Warrior! Here Comes Lucy!.mkv`
+- `[AnimeRG] One Piece - 634 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E06 - The Pirate Prince Cavendish.mkv`
+- `[AnimeRG] One Piece - 635 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E07 - The Fated Reunion! Bellamy the Hyena.mkv`
+- `[AnimeRG] One Piece - 636 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E08 - Supernova! Bartolomeo the Cannibal.mkv`
+- `[AnimeRG] One Piece - 637 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E09 - Rivalry of Warriors! B Block on Fire!.mkv`
+- `[AnimeRG] One Piece - 638 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E10 - One-Hit Knockout! The Astounding King Punch.mkv`
+- `[AnimeRG] One Piece - 639 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E11 - Fighting Fish Attack! Break through the Iron Bridge of Death.mkv`
+- `[AnimeRG] One Piece - 640 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E12 - Adventure! The Island of Fairies, Green Bit.mkv`
+- `[AnimeRG] One Piece - 641 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E13 - The Unknown World! Tontatta Kingdom.mkv`
+- `[AnimeRG] One Piece - 642 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E14 - Scheme of the Century! Doflamingo Gets Moving.mkv`
+- `[AnimeRG] One Piece - 643 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E15 - Heaven and Earth Shakes! The True Power of Admiral Fujitora.mkv`
+- `[AnimeRG] One Piece - 644 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E16 - A Blow of Anger! A Giant vs. Lucy!.mkv`
+- `[AnimeRG] One Piece - 645 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E17 - The Destructive Cannon Explodes! A Close Call for Lucy.mkv`
+- `[AnimeRG] One Piece - 646 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E18 - The Legendary Pirate! Boss Chinjao.mkv`
+- `[AnimeRG] One Piece - 647 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E19 - Light and Shadow! The Darkness Lurking in Dressrosa!.mkv`
+- `[AnimeRG] One Piece - 648 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E20 - Sortie! The Legendary Hero, Usoland.mkv`
+- `[AnimeRG] One Piece - 649 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E21 - The Fierce Battle's Conclusion! Lucy vs. Chinjao.mkv`
+- `[AnimeRG] One Piece - 650 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E22 - Luffy and the Fated Gladiator Rebecca.mkv`
+- `[AnimeRG] One Piece - 651 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E23 - Protect Her 'til the End! Rebecca and the Toy Soldier.mkv`
+- `[AnimeRG] One Piece - 652 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E24 - Final Battleground! D Block Battle Begins.mkv`
+- `[AnimeRG] One Piece - 653 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E25 - Decisive Battle! Jora vs. Straw Hat Crew.mkv`
+- `[AnimeRG] One Piece - 654 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E26 - Blade of Beauty! Cavendish of the White Horse.mkv`
+- `[AnimeRG] One Piece - 655 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E27 - The Great Clash! Sanji vs. Doflamingo.mkv`
+- `[AnimeRG] One Piece - 656 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E28 - Rebecca's Sword of Death! Backwater Sword Dance.mkv`
+- `[AnimeRG] One Piece - 657 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E29 - The Strongest Warrior! Logan vs. Rebecca.mkv`
+- `[AnimeRG] One Piece - 658 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E30 - Shock! The Toy Soldier's True Identity.mkv`
+- `[AnimeRG] One Piece - 659 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E31 - A Chilling Past! The Secret Behind Dressrosa.mkv`
+- `[AnimeRG] One Piece - 660 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E32 - Nightmare! That One Tragic Evening in Dressrosa.mkv`
+- `[AnimeRG] One Piece - 661 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E33 - A Showdown Between the Warlords! Law vs. Doflamingo!.mkv`
+- `[AnimeRG] One Piece - 662 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E34 - Two Great Forces Face Off! Straw Hat and Heavenly Yaksha.mkv`
+- `[AnimeRG] One Piece - 663 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E35 - Luffy, Startled! The Man Who Will Inherit Ace’s Will.mkv`
+- `[AnimeRG] One Piece - 664 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E36 - Start Operation SOP! Usoland Charges.mkv`
+- `[AnimeRG] One Piece - 665 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E37 - Hot Emotions! Rebecca vs. Suleiman.mkv`
+- `[AnimeRG] One Piece - 666 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E38 - Winner Decided! The End to the D-Block Bash.mkv`
+- `[AnimeRG] One Piece - 667 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E39 - The Admiral’s Decision! Fujitora vs. Doflamingo.mkv`
+- `[AnimeRG] One Piece - 668 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E40 - The Final Round Begins! Diamante the Hero Takes the Stage.mkv`
+- `[AnimeRG] One Piece - 669 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E41 - The Castle Moves! Elite Officer Pica Emerges.mkv`
+- `[AnimeRG] One Piece - 670 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E42 - Dragon Claw Explodes! Lucy's Threatening Blow!.mkv`
+- `[AnimeRG] One Piece - 671 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E43 - Defeat Sugar! The Dwarf Soldiers Charge In!.mkv`
+- `[AnimeRG] One Piece - 672 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E44 - The Last Light! The Secret of Our Captain!.mkv`
+- `[AnimeRG] One Piece - 673 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E45 - The Rupture Human! Gladius' Big Explosion!.mkv`
+- `[AnimeRG] One Piece - 674 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E46 - Liar! Usoland on the Run!.mkv`
+- `[AnimeRG] One Piece - 675 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E47 - A Fateful Encounter! Kyros and King Riku.mkv`
+- `[AnimeRG] One Piece - 676 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E48 - Operation Failed! Hero Usoland Dies!.mkv`
+- `[AnimeRG] One Piece - 677 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E49 - The Legend Is Back! Kyros' All-Out Attack!.mkv`
+- `[AnimeRG] One Piece - 678 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E50 - The Fire Fist Strikes! The Flare Flare Fruit Power Returns!.mkv`
+- `[AnimeRG] One Piece - 679 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E51 - Gallant Appearance! Revolutionary Army Chief of Staff Sabo!.mkv`
+- `[AnimeRG] One Piece - 680 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E52 - The Devil's Trap! Dressrosa Annihilation Plan.mkv`
+- `[AnimeRG] One Piece - 681 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E53 - The 500 Million Berry Man! Target - Usoland!.mkv`
+- `[AnimeRG] One Piece - 682 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E54 - Break Through the Enemy Lines! Luffy and Zoro's Counterattack!.mkv`
+- `[AnimeRG] One Piece - 683 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E55 - With a Rumbling of the Ground! The God of Destruction Giant Pica Descends!.mkv`
+- `[AnimeRG] One Piece - 684 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E56 - Gathering Into a Powerful Front! Luffy and a Group of Brutal Warriors!.mkv`
+- `[AnimeRG] One Piece - 685 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E57 - Steady Progress! Luffy's Army vs. Pica!.mkv`
+- `[AnimeRG] One Piece - 686 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E58 - A Shocking Confession! Law's Soulful Vow!.mkv`
+- `[AnimeRG] One Piece - 687 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E59 - A Big Collision! Chief of Staff Sabo vs. Admiral Fujitora.mkv`
+- `[AnimeRG] One Piece - 688 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E60 - A Desperate Situation! Luffy Gets Caught in a Trap!.mkv`
+- `[AnimeRG] One Piece - 689 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E61 - Great Escape! Luffy's Miraculous Elephant Gun!.mkv`
+- `[AnimeRG] One Piece - 690 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E62 - A United Front! Luffy's Breakthrough to Victory.mkv`
+- `[AnimeRG] One Piece - 691 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E63 - The Second Samurai! Evening Shower Kanjuro Appears.mkv`
+- `[AnimeRG] One Piece - 692 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E64 - The Struggle with Pica! Zoro's One Finishing Move.mkv`
+- `[AnimeRG] One Piece - 693 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E65 - The Little People's Princess! Captive Mansherry.mkv`
+- `[AnimeRG] One Piece - 694 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E66 - Invulnerable! The Terrifying Headcracker Doll Army.mkv`
+- `[AnimeRG] One Piece - 695 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E67 - Life-Risking! Luffy Is the Trump Card to Victory.mkv`
+- `[AnimeRG] One Piece - 696 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E68 - A Tearful Reunion! Rebecca and Kyros!.mkv`
+- `[AnimeRG] One Piece - 697 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E69 - One Shot One Kill! The Man Who Will Save Dressrosa.mkv`
+- `[AnimeRG] One Piece - 698 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E70 - Anger Explosion! Luffy and Laws's Ultimate Secret Plan.mkv`
+- `[AnimeRG] One Piece - 699 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E71 - Noble Family! Doflamingo's True Identity!.mkv`
+- `[AnimeRG] One Piece - 700 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E72 - Ultimate Power! The Secret of the Ope Ope no Mi!.mkv`
+- `[AnimeRG] One Piece - 701 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E73 - Sad Memories! Law the Boy from the White City!.mkv`
+- `[AnimeRG] One Piece - 702 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E74 - Celestial Dragon! Doffy's Stormy Past!.mkv`
+- `[AnimeRG] One Piece - 703 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E75 - A Rocky Road! Law and Corazon's Journey of Life!.mkv`
+- `[AnimeRG] One Piece - 704 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E76 - The Time is Ticking Down! Seize the Op-Op Fruit!.mkv`
+- `[AnimeRG] One Piece - 705 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E77 - The Moment of Resolution - Corazon's Farewell Smile!.mkv`
+- `[AnimeRG] One Piece - 706 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E78 - Advance, Law! The Kindhearted Man's Final Fight!.mkv`
+- `[AnimeRG] One Piece - 707 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E79 - To Be Free! Law's Injection Shot Blasts!.mkv`
+- `[AnimeRG] One Piece - 708 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E80 - An Intense Battle! Law vs. Doflamingo!.mkv`
+- `[AnimeRG] One Piece - 709 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E81 - A Decisive Battle Against the Executives! Proud Hajrudin!.mkv`
+- `[AnimeRG] One Piece - 710 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E82 - The Battle of Love! The New Leader Sai vs. Baby 5!.mkv`
+- `[AnimeRG] One Piece - 711 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E83 - The Man's Pride! Bellamy's Last Charge!.mkv`
+- `[AnimeRG] One Piece - 712 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E84 - A Strong Wind and a Surge! Hakuba vs. Delinger!.mkv`
+- `[AnimeRG] One Piece - 713 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E85 - Barrier Barrier! Homage Holy Fist Strikes!.mkv`
+- `[AnimeRG] One Piece - 714 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E86 - The Healing Princess! Save Mansherry!.mkv`
+- `[AnimeRG] One Piece - 715 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E87 - The Manly Duel! Señor's Elegy of Love!.mkv`
+- `[AnimeRG] One Piece - 716 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E88 - Stardust of Death! Diamante's Storm of Vicious Attacks!.mkv`
+- `[AnimeRG] One Piece - 717 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E89 - Trueno Bastard! Kyros' Blow of Anger!.mkv`
+- `[AnimeRG] One Piece - 718 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E90 - Moving Across the Ground! The Giant Statue Pica's Surprise Maneuver!.mkv`
+- `[AnimeRG] One Piece - 719 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E91 - Aerial Battle! Zoro's New Deadly Secret Technique Explodes!.mkv`
+- `[AnimeRG] One Piece - 720 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E92 - So Long! Bellamy's Farewell Blow!.mkv`
+- `[AnimeRG] One Piece - 721 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E93 - Law Dies! Luffy's Raging Onslaught!.mkv`
+- `[AnimeRG] One Piece - 722 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E94 - A Blade of Tenacity! The Gamma Knife Counterattack!.mkv`
+- `[AnimeRG] One Piece - 723 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E95 - A Collision of Haki! Luffy vs. Doflamingo.mkv`
+- `[AnimeRG] One Piece - 724 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E96 - Unassailable! The Stunning Secret of Trebol!.mkv`
+- `[AnimeRG] One Piece - 725 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E97 - Anger Erupts! I Will Take Everything upon Myself!.mkv`
+- `[AnimeRG] One Piece - 726 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E98 - Fourth Gear! The Phenomenal Bounce-Man!.mkv`
+- `[AnimeRG] One Piece - 727 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E99 - A Massive Counterattack! Doflamingo's Awakening!.mkv`
+- `[AnimeRG] One Piece - 728 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E100 - Luffy! An All-Out Leo Bazooka!.mkv`
+- `[AnimeRG] One Piece - 729 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E101 - Flame Dragon King! Protect Luffy's Life!.mkv`
+- `[AnimeRG] One Piece - 730 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E102 - Tears of Miracles! Mansherry's Fight!.mkv`
+- `[AnimeRG] One Piece - 731 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E103 - As Long as We Breathe! Stop the Deadly Birdcage!.mkv`
+- `[AnimeRG] One Piece - 732 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E104 - Dead or Alive! A Fateful Countdown!.mkv`
+- `[AnimeRG] One Piece - 733 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E105 - Attack on a Celestial! Luffy's King Kong Gun of Anger!.mkv`
+- `[AnimeRG] One Piece - 734 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E106 - To Be Free! Dressrosa's Delight!.mkv`
+- `[AnimeRG] One Piece - 735 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E107 - The Unheard-of! Admirial Fujitora's Surprising Decision!.mkv`
+- `[AnimeRG] One Piece - 736 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E108 - Sending a Shock Wave! The Worst Generation Goes into Action!.mkv`
+- `[AnimeRG] One Piece - 737 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E109 - The Birth of the Legend! The Adventures of the Revolutionary Warrior Sabo!.mkv`
+- `[AnimeRG] One Piece - 738 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E110 - The Brothers' Bond! The Untold Story of Luffy and Sabo's Reunion!.mkv`
+- `[AnimeRG] One Piece - 739 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E111 - The Strongest Creature! Kaido of the Beasts!.mkv`
+- `[AnimeRG] One Piece - 740 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E112 - Fujitora Takes Action! The Complete Siege of the Straw Hats!.mkv`
+- `[AnimeRG] One Piece - 741 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E113 - A State of Emergency! Rebecca Is Kidnapped!.mkv`
+- `[AnimeRG] One Piece - 742 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E114 - The Bond of Father and Daughter! Kyros and Rebecca.mkv`
+- `[AnimeRG] One Piece - 743 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E115 - Men's Pride! Luffy vs. Fujitora in a Head-to-Head!.mkv`
+- `[AnimeRG] One Piece - 744 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E116 - No Way Out! Admiral Fujitora's Ruthless Pursuit!.mkv`
+- `[AnimeRG] One Piece - 745 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E117 - Sons' Cups! The Straw Hat Fleet Is Formed!.mkv`
+- `[AnimeRG] One Piece - 746 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S17E118 - The Numerous Rivals Struggle Amongst Themselves! The Raging Monsters of the New World.mkv`
+
+## Season 18
+
+- `[AnimeRG] One Piece - 747 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E01 - The Silver Fortress! Luffy and Barto's Great Adventure!.mkv`
+- `[AnimeRG] One Piece - 748 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E02 - An Underground Maze! Luffy vs. the Tram Human!.mkv`
+- `[AnimeRG] One Piece - 749 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E03 - The Sword Technique Heats Up! Law and Zoro Finally Appear!.mkv`
+- `[AnimeRG] One Piece - 750 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E04 - A Desperate Situation - Luffy Fights a Battle in Extreme Heat!.mkv`
+- `[AnimeRG] One Piece - 751 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E05 - Curtain-Up on a New Adventure! Arrival at the Mysterious Island, Zou!.mkv`
+- `[AnimeRG] One Piece - 752 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E06 - The New Warlord! The Legendary Whitebeard's Son Appears!.mkv`
+- `[AnimeRG] One Piece - 753 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E07 - A Deadly Elephant Climb! A Great Adventure on the Back of the Giant Elephant!.mkv`
+- `[AnimeRG] One Piece - 754 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E08 - Battle Starts! Luffy vs. the Mink Tribe!.mkv`
+- `[AnimeRG] One Piece - 755 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E09 - Garchu! The Straw Hats Reunite!.mkv`
+- `[AnimeRG] One Piece - 756 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E10 - Start to Counterattack! Great Moves by the Straw Hat Crew!.mkv`
+- `[AnimeRG] One Piece - 757 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E11 - A Threat Descends! The Beast Pirates, Jack!.mkv`
+- `[AnimeRG] One Piece - 758 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E12 - The King of the Day! Duke Dogstorm Appears!.mkv`
+- `[AnimeRG] One Piece - 759 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E13 - The King of the Night! Master Cat Viper Emerges!.mkv`
+- `[AnimeRG] One Piece - 760 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E14 - The Exterminated Capital! The Straw Hat Crew Arrive!.mkv`
+- `[AnimeRG] One Piece - 761 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E15 - The Time Limit Closes In! The Bond Between the Mink Tribe and the Crew!.mkv`
+- `[AnimeRG] One Piece - 762 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E16 - The Delinquent Comes Home! Emperor Big Mom's Assassins!.mkv`
+- `[AnimeRG] One Piece - 763 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E17 - The Truth Behind His Disappearance! Sanji's Shocking Invitation.mkv`
+- `[AnimeRG] One Piece - 764 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E18 - To My Buds! Sanji's Farewell Note!.mkv`
+- `[AnimeRG] One Piece - 765 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E19 - Let's Go and Meet Master Cat Viper!.mkv`
+- `[AnimeRG] One Piece - 766 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E20 - Luffy's Decision! Sanji on the Brink of Quitting!.mkv`
+- `[AnimeRG] One Piece - 767 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E21 - A Volatile Situation! Dog, Cat, and Samurai!.mkv`
+- `[AnimeRG] One Piece - 768 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E22 - The Third One! Raizo of the Mist, the Ninja, Appears!.mkv`
+- `[AnimeRG] One Piece - 769 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E23 - A Red Stone! A Guide to the One Piece!.mkv`
+- `[AnimeRG] One Piece - 770 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E24 - The Secret of the Wano Kingdom! The Kozuki Clan and the Poneglyph.mkv`
+- `[AnimeRG] One Piece - 771 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E25 - A Vow Between Two Men! Luffy and Kozuki Momonosuke.mkv`
+- `[AnimeRG] One Piece - 772 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E26 - The Legendary Journey! The Dog and the Cat and the Pirate King!.mkv`
+- `[AnimeRG] One Piece - 773 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E27 - The Nightmare Returns! The Invincible Jack's Fierce Attack!.mkv`
+- `[AnimeRG] One Piece - 774 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E28 - A Battle to Defend Zou! Luffy and Zunisha!.mkv`
+- `[AnimeRG] One Piece - 775 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E29 - Save Zunesha! The Straw Hats Rescue Operation!.mkv`
+- `[AnimeRG] One Piece - 776 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E30 - Descending the Elephant! Setting Sail for Sanji’s Retrieval!.mkv`
+- `[AnimeRG] One Piece - 777 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E31 - To the Reverie! Princess Vivi and Princess Shirahoshi.mkv`
+- `[AnimeRG] One Piece - 778 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E32 - To the Reverie! Rebecca and the Sakura Kingdom.mkv`
+- `[AnimeRG] One Piece - 779 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S18E33 - Kaido Returns! The Worst Generation Threatened!.mkv`
+
+## Season 19
+
+- `[AnimeRG] One Piece - 780 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E01 - A Hungry Front! Luffy and the Marine Rookies!.mkv`
+- `[AnimeRG] One Piece - 781 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E02 - The Persistent Trio! The Great Pursuit for the Straw Hats!.mkv`
+- `[AnimeRG] One Piece - 782 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E03 - The Devil's Fist! A Show Down! Luffy vs. Grount!.mkv`
+- `[AnimeRG] One Piece - 783 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E04 - Sanji Returns Home! To Big Mom's Territory!.mkv`
+- `[AnimeRG] One Piece - 784 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E05 - Zero and Four! Encountering Germa 66!.mkv`
+- `[AnimeRG] One Piece - 785 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E06 - A Deadly Poison Crisis! Luffy and Reiju!.mkv`
+- `[AnimeRG] One Piece - 786 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E07 - Totto Land! Emperor Big Mom Appears!.mkv`
+- `[AnimeRG] One Piece - 787 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E08 - The Emperor's Daughter! Sanji's Fiancée Pudding!.mkv`
+- `[AnimeRG] One Piece - 788 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E09 - A Massive Attack! Mom's Hunger Pangs!.mkv`
+- `[AnimeRG] One Piece - 789 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E10 - The Capital City Falls! Big Mom and Jinbe!.mkv`
+- `[AnimeRG] One Piece - 790 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E11 - The Emperor's Castle! Arriving on Whole Cake Island!.mkv`
+- `[AnimeRG] One Piece - 791 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E12 - A Mysterious Forest Full of Candies! Luffy vs. Luffy!.mkv`
+- `[AnimeRG] One Piece - 792 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E13 - Mom's Assassin! Luffy and the Seducing Woods!.mkv`
+- `[AnimeRG] One Piece - 793 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E14 - A Seafaring Kingdom! Germa's King Judge!.mkv`
+- `[AnimeRG] One Piece - 794 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E15 - A Battle between Father and Son! Judge vs. Sanji.mkv`
+- `[AnimeRG] One Piece - 795 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E16 - A Giant Ambition! Big Mom and Caesar!.mkv`
+- `[AnimeRG] One Piece - 796 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E17 - The Land of Souls! Mom’s Fatal Ability!.mkv`
+- `[AnimeRG] One Piece - 797 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E18 - A Top Officer! The Sweet 3 General Cracker Appears!.mkv`
+- `[AnimeRG] One Piece - 798 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E19 - An Enemy Worth 800 Million! Luffy vs. Thousand-Armed Cracker!.mkv`
+- `[AnimeRG] One Piece - 799 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E20 - An All-Out Duel! Gear Four vs. Bis Bis Ability.mkv`
+- `[AnimeRG] One Piece - 800 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E21 - The First and the Second Join! The Vinsmoke Family.mkv`
+- `[AnimeRG] One Piece - 801 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E22 - The Benefactor's Life! Sanji and Owner Zeff!.mkv`
+- `[AnimeRG] One Piece - 802 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E23 - An Angry Sanji! The Secret of Germa 66!.mkv`
+- `[AnimeRG] One Piece - 803 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E24 - The Past That He Let Go Of! Vinsmoke Sanji!.mkv`
+- `[AnimeRG] One Piece - 804 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E25 - To the East Blue! Sanji's Resolute Departure!.mkv`
+- `[AnimeRG] One Piece - 805 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E26 - A Battle of Limits! Luffy and the Infinite Biscuits!.mkv`
+- `[AnimeRG] One Piece - 806 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E27 - Power of Fullness! New Gear Fourth - Tankman!.mkv`
+- `[AnimeRG] One Piece - 807 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E28 - A Heartbreaking Duel! Luffy vs. Sanji (1).mkv`
+- `[AnimeRG] One Piece - 808 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E29 - A Heartbreaking Duel! Luffy vs. Sanji (2).mkv`
+- `[AnimeRG] One Piece - 809 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E30 - A Storm of Revenge! An Enraged Army Comes to Attack!.mkv`
+- `[AnimeRG] One Piece - 810 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E31 - The End of the Adventure! Sanji's Resolute Proposal.mkv`
+- `[AnimeRG] One Piece - 811 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E32 - I'll Wait Here! Luffy vs.the Enraged Army!.mkv`
+- `[AnimeRG] One Piece - 812 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E33 - Invading the Chateau! Reach the Road Ponegliff!.mkv`
+- `[AnimeRG] One Piece - 813 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E34 - A Fateful Confrontation! Luffy and Big Mom!.mkv`
+- `[AnimeRG] One Piece - 814 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E35 - Shout of the Soul! Brook and Pedro's Lightning Operation.mkv`
+- `[AnimeRG] One Piece - 815 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E36 - Goodbye! Pudding's Tearful Determination.mkv`
+- `[AnimeRG] One Piece - 816 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E37 - The History of the Left Eye! Pedro vs. Baron Tamago.mkv`
+- `[AnimeRG] One Piece - 817 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E38 - Moist Cigarette! The Night Before Sanji's Wedding!.mkv`
+- `[AnimeRG] One Piece - 818 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E39 - The Undaunted Soul! Brook vs. Big Mom!.mkv`
+- `[AnimeRG] One Piece - 819 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E40 - Sora's Wish! Germa's Failure, Sanji.mkv`
+- `[AnimeRG] One Piece - 820 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E41 - To Reach Sanji! Luffy's Vengeful Hell-Bent Dash!.mkv`
+- `[AnimeRG] One Piece - 821 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E42 - The Chateau in Turmoil! Luffy, to the Rendezvous!.mkv`
+- `[AnimeRG] One Piece - 822 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E43 - Deciding to Say Goodbye! Sanji and His Straw Hat Bento!.mkv`
+- `[AnimeRG] One Piece - 823 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E44 - The Emperor Rolls Over! Rescue Brook Mission!.mkv`
+- `[AnimeRG] One Piece - 824 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E45 - The Rendezvous! Luffy, a One-on-One at His Limit!.mkv`
+- `[AnimeRG] One Piece - 825 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E46 - Liar! Luffy and Sanji.mkv`
+- `[AnimeRG] One Piece - 826 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E47 - Sanji Comes Back! Crash! The Tea Party from Hell!.mkv`
+- `[AnimeRG] One Piece - 827 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E48 - A Secret Meeting! Luffy vs. The Fire Tank Pirates!.mkv`
+- `[AnimeRG] One Piece - 828 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E49 - The Deadly Pact! Luffy & Bege's Allied Forces.mkv`
+- `[AnimeRG] One Piece - 829 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E50 - Luffy Engages in a Secret Maneuver! The Wedding Full of Conspiracies Starts Soon!.mkv`
+- `[AnimeRG] One Piece - 830 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E51 - The Family Gets Together! The Hellish Tea Party Starts!.mkv`
+- `[AnimeRG] One Piece - 831 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E52 - The Broken Couple! Sanji and Pudding Enter!.mkv`
+- `[AnimeRG] One Piece - 832 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E53 - A Deadly Kiss! The Mission to Assassinate the Emperor Kicks Off!.mkv`
+- `[AnimeRG] One Piece - 833 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E54 - Returning the Sake Cup! The Manly Jimbei Pays His Debt!.mkv`
+- `[AnimeRG] One Piece - 834 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E55 - The Mission Failed! The Big Mom Pirates Strike Back!.mkv`
+- `[AnimeRG] One Piece - 835 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E56 - Run Sanji! SOS Germa 66!.mkv`
+- `[AnimeRG] One Piece - 836 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E57 - Mom's Secret! The Giant's Island Elbaph and a Little Monster!.mkv`
+- `[AnimeRG] One Piece - 837 [720p] [Multi-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S19E58 - The Birth of Mom! The Day That Carmel Vanished!.mkv`
+- `[AnimeRG] One Piece - 838 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E59 - The Launcher Blasts! The Moment of Big Mom Assassination!.mkv`
+- `[AnimeRG] One Piece - 839 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E60 - The Evil Army! Transform! Germa 66!.mkv`
+- `[AnimeRG] One Piece - 840 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E61 - Cutting the Father-Son Relationship! Sanji and Judge!.mkv`
+- `[AnimeRG] One Piece - 841 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E62 - Escape from the Tea Party! Luffy vs. Big Mom!.mkv`
+- `[AnimeRG] One Piece - 842 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E63 - The Execution Begins! Luffy’s Allied Forces Annihilated!.mkv`
+- `[AnimeRG] One Piece - 843 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E64 - The Castle Collapses! The Straw Hat's Great Escape Begins!.mkv`
+- `[AnimeRG] One Piece - 844 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E65 - The Spear of Elbaph! Onslaught! The Flying Big Mom!.mkv`
+- `[AnimeRG] One Piece - 845 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E66 - Pudding's Determination! Ablaze! The Seducing Woods.mkv`
+- `[AnimeRG] One Piece - 846 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E67 - A Lightning Counterattack! Nami and Zeus the Thundercloud!.mkv`
+- `[AnimeRG] One Piece - 847 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E68 - A Coincidental Reunion! Sanji and the Lovestruck Evil Pudding.mkv`
+- `[AnimeRG] One Piece - 848 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E69 - Save the Sunny! Fighting Bravely! Chopper and Brook!.mkv`
+- `[AnimeRG] One Piece - 849 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E70 - Before the Dawn! Pedro, the Captain of the Guardians.mkv`
+- `[AnimeRG] One Piece - 850 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E71 - I'll Be Back! Luffy, Deadly Departure.mkv`
+- `[AnimeRG] One Piece - 851 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E72 - The Man with a Bounty of Billion! The Strongest Sweet Commander, Katakuri.mkv`
+- `[AnimeRG] One Piece - 852 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E73 - A Hard Battle Starts! Luffy vs. Katakuri!.mkv`
+- `[AnimeRG] One Piece - 853 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E74 - The Green Room! An Invincible Helmsman, Jimbei.mkv`
+- `[AnimeRG] One Piece - 854 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E75 - The Threat of the Mole! Luffy's Silent Fight!.mkv`
+- `[AnimeRG] One Piece - 855 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E76 - The End of Deadly Battle! Katakuri's Awakening in Anger!.mkv`
+- `[AnimeRG] One Piece - 856 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E77 - The Forbidden Secret! Katakuri's Merienda.mkv`
+- `[AnimeRG] One Piece - 857 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E78 - Luffy's Fights Back! The Invincible Katakuri's Weak Point!.mkv`
+- `[AnimeRG] One Piece - 858 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E79 - Another Crisis! Gear 4 vs. Unstoppable Donuts.mkv`
+- `[AnimeRG] One Piece - 859 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E80 - The Rebellious Daughter, Chiffon! Sanji's Big Plan for Transporting the Cake!.mkv`
+- `[AnimeRG] One Piece - 860 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E81 - A Man's Way of Life! Bege and Luffy's Determination as Captains.mkv`
+- `[AnimeRG] One Piece - 861 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E82 - The Cake Sank! Sanji and Bege's Getaway Battle!.mkv`
+- `[AnimeRG] One Piece - 862 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E83 - Sulong! Carrot's Mysterious Great Transformation.mkv`
+- `[AnimeRG] One Piece - 863 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E84 - Break Through! Straw Hat Crew's Great Naval Battle!.mkv`
+- `[AnimeRG] One Piece - 864 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E85 - Finally, the Clash! The Emperor of the Sea vs. the Straw Hats!.mkv`
+- `[AnimeRG] One Piece - 865 [720p] [Multi-Sub] [HEVC] [x265] [pseudo] (v2).mkv` → `One Piece (1999) - S19E86 - Dark King's Direct Precepts! The Battle Against Katakuri Turns Around.mkv`
+- `[AnimeRG] One Piece - 866 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E87 - He Finally Returns! Sanji, the Man Who Stops the Yonko.mkv`
+- `[AnimeRG] One Piece - 867 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E88 - Lurking in the Darkness! Assassin Attacks Luffy!.mkv`
+- `[AnimeRG] One Piece - 868 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E89 - A Man's Resolution! Katakuri's Life-Risking Great Match.mkv`
+- `[AnimeRG] One Piece - 869 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E90 - Wake Up! To Cross over the Strongest Kenbunshoku.mkv`
+- `[AnimeRG] One Piece - 870 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E91 - A God Speed Fist! New Gear 4 Activation!.mkv`
+- `[AnimeRG] One Piece - 871 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E92 - Finally, It's Over! The Climax of the Intense Fight against Katakuri!.mkv`
+- `[AnimeRG] One Piece - 872 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E93 - A Desperate Situation! The Iron-Tight Entrapment of Luffy!.mkv`
+- `[AnimeRG] One Piece - 873 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E94 - Pulling Back from the Brink! The Formidable Reinforcements – Germa!.mkv`
+- `[AnimeRG] One Piece - 874 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E95 - The Last Hope! The Sun Pirates Emerge!.mkv`
+- `[AnimeRG] One Piece - 875 [720p] [Multi-Sub] [HEVC] [x265] [pseudo].mkv` → `One Piece (1999) - S19E96 - A Captivating Flavor! Sanji's Cake of Happiness!.mkv`
+- `One Piece - 876.mkv` → `One Piece (1999) - S19E97 - The Man of Humanity and Justice! Jinbe, a Desperate Massive Ocean Current.mkv`
+- `One Piece - 877.mkv` → `One Piece (1999) - S19E98 - Time for Farewell! Pudding’s One Last Request!.mkv`
+
+## Season 20
+
+- `One Piece - 878.mkv` → `One Piece (1999) - S20E01 - The World in Shock! The Fifth Emperor of the Sea Arrives!.mkv`
+- `One Piece - 879.mkv` → `One Piece (1999) - S20E02 - To the Reverie! Gathering of the Straw Hat Allies!.mkv`
+- `One Piece - 880.mkv` → `One Piece (1999) - S20E03 - Sabo Goes into Action - All the Captains of the Revolutionary Army Appear!.mkv`
+- `One Piece - 881.mkv` → `One Piece (1999) - S20E04 - The Next Move - New Obsessive Fleet Admiral Sakazuki.mkv`
+- `One Piece - 882.mkv` → `One Piece (1999) - S20E05 - The Summit War - Pirate King's Inherited Will.mkv`
+- `One Piece - 883.mkv` → `One Piece (1999) - S20E06 - One Step Ahead of the Dream - Shirahoshi's Path to the Sun!.mkv`
+- `One Piece - 884.mkv` → `One Piece (1999) - S20E07 - I Miss Him! Vivi and Rebecca's Sentiments!.mkv`
+- `One Piece - 885.mkv` → `One Piece (1999) - S20E08 - In the Dark Recesses of the Holyland! A Mysterious Giant Straw Hat!.mkv`
+- `One Piece - 886.mkv` → `One Piece (1999) - S20E09 - The Holyland in Tumult! The Targeted Princess Shirahoshi!.mkv`
+- `One Piece - 887.mkv` → `One Piece (1999) - S20E10 - An Explosive Situation! Two Emperors of the Sea Going After Luffy!.mkv`
+- `One Piece - 888.mkv` → `One Piece (1999) - S20E11 - Sabo Enraged! The Tragedy of the Revolutionary Army Officer Kuma!.mkv`
+- `One Piece - 889.mkv` → `One Piece (1999) - S20E12 - Finally, It Starts! The Conspiracy-Filled Reverie!.mkv`
+- `One Piece - 890.mkv` → `One Piece (1999) - S20E13 - Marco! The Keeper of Whitebeard's Last Memento.mkv`
+- `One Piece - 891.mkv` → `One Piece (1999) - S20E14 - Climbing Up a Waterfall! A Great Journey Through the Land of Wano's Sea Zone!.mkv`
+
+## Season 21
+
+- `[AniDL] One Piece Ep.892 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E01 - The Land of Wano! To the Samurai Country Where Cherry Blossoms Flutter!.mkv`
+- `[AniDL] One Piece Ep.893 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E02 - Otama Appears! Luffy vs. Kaido's Army!.mkv`
+- `[AniDL] One Piece Ep.894 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E03 - He'll Come! The Legend of Ace in the Land of Wano!.mkv`
+- `[AniDL] One Piece Ep.895 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E04 - Side Story! The World's Greatest Bounty Hunter, Cidre!.mkv`
+- `[AniDL] One Piece Ep.896 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E05 - Side Story! Clash! Luffy vs. the King of Carbonation!.mkv`
+- `[AniDL] One Piece Ep.897 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E06 - Save Otama! Straw Hat, Bounding through the Wasteland!.mkv`
+- `[AniDL] One Piece Ep.898 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E07 - The Headliner! Hawkins the Magician Appears!.mkv`
+- `[AniDL] One Piece Ep.899 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E08 - Defeat is Inevitable! The Strawman's Fierce Attack!.mkv`
+- `[AniDL] One Piece Ep.900 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E09 - The Greatest Day of My Life! Otama and Her Sweet Red-bean Soup!.mkv`
+- `[AniDL] One Piece Ep.901 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E10 - Charging into the Enemy's Territory! Bakura Town - Where Officials Thrive!.mkv`
+- `[AniDL] One Piece Ep.902 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E11 - The Yokozuna Appears! The Invincible Urashima Goes After Okiku!.mkv`
+- `[AniDL] One Piece Ep.903 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E12 - A Climactic Sumo Battle! Straw Hat vs. the Strongest Ever Yokozuna!.mkv`
+- `[AniDL] One Piece Ep.904 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E13 - Luffy Rages! Rescue Otama from Danger!.mkv`
+- `[AniDL] One Piece Ep.905 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E14 - Taking Back Otama! A Fierce Fight Against Holdem!.mkv`
+- `[AniDL] One Piece Ep.906 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E15 - Duel! The Magician and the Surgeon of Death!.mkv`
+- `[AniDL] One Piece Ep.907 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E16 - Romance Dawn.mkv`
+- `[AniDL] One Piece Ep.908 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E17 - The Coming of the Treasure Ship! Luffytaro Returns the Favor!.mkv`
+- `[AniDL] One Piece Ep.909 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E18 - Mysterious Grave Markers! A Reunion at the Ruins of Oden Castle!.mkv`
+- `[AniDL] One Piece Ep.910 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E19 - A Legendary Samurai! The Man Who Roger Admired!.mkv`
+- `[AniDL] One Piece Ep.911 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E20 - Bringing Down the Emperor of the Sea! A Secret Raid Operation Begins!.mkv`
+- `[AniDL] One Piece Ep.912 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E21 - The Strongest Man in the World! Shutenmaru, the Thieves Brigade Chief!.mkv`
+- `[AniDL] One Piece Ep.913 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E22 - Everyone is Annihilated! Kaido's Furious Blast Breath!.mkv`
+- `[AniDL] One Piece Ep.914 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E23 - Finally Clashing! The Ferocious Luffy vs. Kaido!.mkv`
+- `[AniDL] One Piece Ep.915 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E24 - Destructive! One Shot, One Kill - Thunder Bagua!.mkv`
+- `[AniDL] One Piece Ep.916 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E25 - A Living Hell! Luffy, Humiliated in the Great Mine!.mkv`
+- `[AniDL] One Piece Ep.917 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E26 - The Holyland in Tumult! Emperor of the Sea Blackbeard Cackles!.mkv`
+- `[AniDL] One Piece Ep.918 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E27 - It's On! The Special Operation to Bring Down Kaido!.mkv`
+- `[AniDL] One Piece Ep.919 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E28 - Rampage! The Prisoners - Luffy and Kid!.mkv`
+- `[AniDL] One Piece Ep.920 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E29 - A Great Sensation! Sanji's Special Soba!.mkv`
+- `[AniDL] One Piece Ep.921 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E30 - Luxurious and Gorgeous! Wano's Most Beautiful Woman - Komurasaki!.mkv`
+- `[AniDL] One Piece Ep.922 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E31 - A Tale of Chivalry! Zoro and Tonoyasu's Little Trip!.mkv`
+- `[AniDL] One Piece Ep.923 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E32 - A State of Emergency! Big Mom Closes In!.mkv`
+- `[AniDL] One Piece Ep.924 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E33 - The Capital in an Uproar! Another Assassin Targets Sanji!.mkv`
+- `[AniDL] One Piece Ep.925 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E34 - Dashing! The Righteous Soba Mask!.mkv`
+- `[AniDL] One Piece Ep.926 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E35 - A Desperate Situation! Orochi's Menacing Oniwabanshu!.mkv`
+- `[AniDL] One Piece Ep.927 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E36 - Pandemonium! The Monster Snake, Shogun Orochi!.mkv`
+- `[AniDL] One Piece Ep.928 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E37 - The Flower Falls! The Final Moment of the Most Beautiful Woman in the Land of Wano!.mkv`
+- `[AniDL] One Piece Ep.929 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E38 - The Bond Between Prisoners! Luffy and Old Man Hyo!.mkv`
+- `[AniDL] One Piece Ep.930 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E39 - A Lead Performer! Queen the Plague Emerges!.mkv`
+- `[AniDL] One Piece Ep.931 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E40 - Climb Up! Luffy's Desperate Escape!.mkv`
+- `[AniDL] One Piece Ep.932 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E41 - Dead or Alive! Queen's Sumo Inferno!.mkv`
+- `[AniDL] One Piece Ep.933 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E42 - Gyukimaru! Zoro Fights a Duel on Bandit's Bridge!.mkv`
+- `[AniDL] One Piece Ep.934 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E43 - A Big Turnover! The Three-Sword Style Overcomes Danger!.mkv`
+- `[AniDL] One Piece Ep.935 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E44 - Zoro, Stunned! The Shocking Identity of the Mysterious Woman!.mkv`
+- `[AniDL] One Piece Ep.936 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E45 - Get the Hang of It! The Land of Wano's Haki - Ryuo!.mkv`
+- `[AniDL] One Piece Ep.937 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E46 - Tonoyasu! Ebisu Town's Most Loved!.mkv`
+- `[AniDL] One Piece Ep.938 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E47 - Shaking the Nation! The Identity of Ushimitsu Kozo The Chivalrous Thief!.mkv`
+- `[AniDL] One Piece Ep.939 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E48 - The Straw Hats Run! Save the Captive Tonoyasu!.mkv`
+- `[AniDL] One Piece Ep.940 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E49 - Zoro's Fury! The Truth About the Smile!.mkv`
+- `[AniDL] One Piece Ep.941 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E50 - Toko's Tears! Orochi's Painful Bullets!.mkv`
+- `[AniDL] One Piece Ep.942 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E51 - The Straw Hats Step In! An Uproarious Deadly Battle at the Execution Ground!.mkv`
+- `[AniDL] One Piece Ep.943 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E52 - Luffy's Determination! Win Through the Sumo Inferno!.mkv`
+- `[AniDL] One Piece Ep.944 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E53 - The Storm Has Come! A Raging Big Mom!.mkv`
+- `[AniDL] One Piece Ep.945 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E54 - A Grudge Over Red Bean Soup! Luffy Gets into a Desperate Situation!.mkv`
+- `[AniDL] One Piece Ep.946 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E55 - Stop the Emperor of the Sea! Queen's Secret Plan!.mkv`
+- `[AniDL] One Piece Ep.947 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E56 - Brutal Ammunition! The Plague Rounds Aim at Luffy!.mkv`
+- `[AniDL] One Piece Ep.948 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E57 - Start Fighting Back! Luffy and the Red-Scabbard Samurai!.mkv`
+- `[AniDL] One Piece Ep.949 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E58 - We're Here to Win! Luffy's Desperate Scream!.mkv`
+- `[AniDL] One Piece Ep.950 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E59 - Warriors' Dream! Luffy's Conquer of Udon!.mkv`
+- `[AniDL] One Piece Ep.951 [1080p][10bit][WeB].mkv` → `One Piece (1999) - S21E60 - Orochi's Hunting Party! The Ninja Group vs. Zoro!.mkv`
+- `[AniDL] One Piece Ep.952 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E61 - Tension Rises in Onigashima! Two Emperors of the Sea Meet!.mkv`
+- `[AniDL] One Piece Ep.953 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E62 - Hiyori's Confession! A Reunion at Bandit's Bridge!.mkv`
+- `[AniDL] One Piece Ep.954 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E63 - Its Name Is Enma! Oden's Great Swords!.mkv`
+- `[AniDL] One Piece Ep.955 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E64 - A New Alliance! Kaido's Army Gathers!.mkv`
+- `[AniDL] One Piece Ep.956 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E65 - Ticking Down to the Great Battle! The Straw Hats Go into Combat Mode!.mkv`
+- `[AniDL] One Piece Ep.957 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E66 - Big News! An Incident That Will Affect the Seven Warlords!.mkv`
+- `[AniDL] One Piece Ep.958 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E67 - A Legendary Battle! Garp and Roger!.mkv`
+- `[AniDL] One Piece Ep.959 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E68 - The Rendezvous Port! The Land of Wano Act Three Begins!.mkv`
+- `[AniDL] One Piece Ep.960 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E69 - The Number-One Samurai in the Land of Wano! Here Comes Kozuki Oden!.mkv`
+- `[AniDL] One Piece Ep.961 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E70 - Tearfully Swearing Allegiance! Oden and Kin'emon!.mkv`
+- `[AniDL] One Piece Ep.962 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E71 - Changing Destiny! The Whitebeard Pirates Cast Ashore!.mkv`
+- `[AniDL] One Piece Ep.963 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E72 - Oden's Determination! Whitebeard's Test!.mkv`
+- `[AniDL] One Piece Ep.964 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E73 - Whitebeard's Little Brother! Oden's Great Adventure!.mkv`
+- `[AniDL] One Piece Ep.965 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E74 - Crossing Swords! Roger and Whitebeard!.mkv`
+- `[AniDL] One Piece Ep.966 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E75 - Roger's Wish! A New Journey!.mkv`
+- `[AniDL] One Piece Ep.967 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E76 - The Bet of a Lifetime! Roger's Adventure!.mkv`
+- `[AniDL] One Piece Ep.968 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E77 - The King of Pirates Is Born! Arriving at the Last Island!.mkv`
+- `[AniDL] One Piece Ep.969 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E78 - To the Land of Wano! The Roger Pirates Disband!.mkv`
+- `[AniDL] One Piece Ep.970 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E79 - Sad News! The Opening of the Great Pirate Era!.mkv`
+- `[AniDL] One Piece Ep.971 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E80 - Raid! Oden and the Nine Red Scabbards!.mkv`
+- `[AniDL] One Piece Ep.972 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E81 - The Moment of Conclusion! Oden vs. Kaido!.mkv`
+- `[AniDL] One Piece Ep.973 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E82 - Boiled to Death! Oden's One-Hour Struggle!.mkv`
+- `[AniDL] One Piece Ep.974 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E83 - Oden Wouldn't Be Oden If It Wasn't Boiled!.mkv`
+- `[AniDL] One Piece Ep.975 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E84 - The Castle on Fire! The Fate of the Kozuki Clan!.mkv`
+- `[AniDL] One Piece Ep.976 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E85 - Back to the Present Day! 20 Years Later!.mkv`
+- `[AniDL] One Piece Ep.977 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E86 - The Sea Is for Pirates! Raid! To Onigashima!.mkv`
+- `[AniDL] One Piece Ep.979 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E88 - Good Luck! Leader Kin'emon's Plot!.mkv`
+- `[AniDL] One Piece Ep.980 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E89 - A Tearful Promise! The Kidnapped Momonosuke!.mkv`
+- `[AniDL] One Piece Ep.981 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E90 - A New Member! 'First Son of the Sea' Jimbei!.mkv`
+- `[AniDL] One Piece Ep.983 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E92 - The Samurai Warriors' Earnestness! The Straw Hats Land at Onigashima!.mkv`
+- `[AniDL] One Piece Ep.984 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E93 - Luffy Goes Out of Control! Sneaking into Kaido's Banquet!.mkv`
+- `[AniDL] One Piece Ep.985 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E94 - Thinking of Otama! Luffy's Furious Strike!.mkv`
+- `[AniDL] One Piece Ep.986 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E95 - Fighting Music! An Ability That Harms Luffy!.mkv`
+- `[AniDL] One Piece Ep.988 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E97 - Reinforcements Arrive! The Commander of the Whitebeard Pirates!.mkv`
+- `[AniDL] One Piece Ep.989 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E98 - The Pact Between Men! The Fierce Fighting of Brachio Tank!.mkv`
+- `[AniDL] One Piece Ep.990 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E99 - Thunder Bagua! Here Comes Kaido's Son!.mkv`
+- `[AniDL] One Piece Ep.991 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E100 - Enemy or Ally Luffy and Yamato!.mkv`
+- `[AniDL] One Piece Ep.992 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E101 - Desire to Be Oden! Yamato's Dream!.mkv`
+- `[AniDL] One Piece Ep.993 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E102 - Explosive! The Handcuffs that Shackle Yamato's Freedom!.mkv`
+- `[AniDL] One Piece Ep.994 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E103 - The Akazaya Face-Off! Kikunojo vs. Kanjuro!.mkv`
+- `[AniDL] One Piece Ep.995 [1080p][10bit][WeB][HEVC].mkv` → `One Piece (1999) - S21E104 - Raid! Inheriting Oden's Will!.mkv`
+- `One Piece - 996.mkv` → `One Piece (1999) - S21E105 - Onigashima in Tumult! Luffy's All-Out War Begins!.mkv`
+- `One Piece - 997.mkv` → `One Piece (1999) - S21E106 - The Battle Under the Moon! The Berserker, Sulong the Moon Lion!.mkv`
+- `One Piece - 998.mkv` → `One Piece (1999) - S21E107 - Zeus' Treason! The Cornered Nami!.mkv`
+- `One Piece - 999.mkv` → `One Piece (1999) - S21E108 - I'll Protect You! Yamato Meets Momonosuke!.mkv`
+- `One Piece - 1000.mkv` → `One Piece (1999) - S21E109 - Overwhelming Strength! The Straw Hats Come Together!.mkv`
+- `One Piece - 1001.mkv` → `One Piece (1999) - S21E110 - A Risky Invitation! A Plot to Eliminate Queen!.mkv`
+- `One Piece - 1002.mkv` → `One Piece (1999) - S21E111 - A New Rivalry! Nami and Ulti!.mkv`
+- `One Piece - 1003.mkv` → `One Piece (1999) - S21E112 - A Heroic Blade! Akazaya vs. Kaido, Again Once More!.mkv`
+- `One Piece - 1004.mkv` → `One Piece (1999) - S21E113 - An Inherited Technique! Unleashing Oden's Secret Swordplay!.mkv`
+- `One Piece - 1005.mkv` → `One Piece (1999) - S21E114 - The Power of Ice Oni! A New Version of the Plague Rounds!.mkv`
+- `One Piece - 1006.mkv` → `One Piece (1999) - S21E115 - I Won't Forgive Him! Chopper's Determination!.mkv`
+- `One Piece - 1007.mkv` → `One Piece (1999) - S21E116 - Zoro's Pursuit! Ice Oni Tag!.mkv`
+- `One Piece - 1008.mkv` → `One Piece (1999) - S21E117 - Nami Surrenders! Ulti's Fierce Headbutt!.mkv`
+- `One Piece - 1009.mkv` → `One Piece (1999) - S21E118 - Sasaki's Onslaught! Armored Division vs. Yamato!.mkv`
+- `One Piece - 1010.mkv` → `One Piece (1999) - S21E119 - Eliminate the Ice Oni! Chopper's Fire Trick!.mkv`
+- `One Piece - 1011.mkv` → `One Piece (1999) - S21E120 - It's Not Okay! The Spider lures Sanji!.mkv`
+- `One Piece - 1012.mkv` → `One Piece (1999) - S21E121 - A Turnaround Move! The Flames of Marco the Phoenix!.mkv`
+- `One Piece - 1013.mkv` → `One Piece (1999) - S21E122 - Yamato's Past! The Man Who Came for an Emperor of the Sea!.mkv`
+- `One Piece - 1014.mkv` → `One Piece (1999) - S21E123 - Marco's Tears! The Bond of the Whitebeard Pirates!.mkv`
+- `One Piece - 1015.mkv` → `One Piece (1999) - S21E124 - Straw Hat Luffy! The Man Who Will Become the King of the Pirates!.mkv`
+
+## Specials
+
+- `[AnimeRG] One Piece - 590 [720p] [Eng-Sub] [x265] [pseudo].mkv` → `One Piece (1999) - S00E39 - Dream 9 Toriko & One Piece & Dragon Ball Z Chō Collaboration Special!! (2-2).mkv`
