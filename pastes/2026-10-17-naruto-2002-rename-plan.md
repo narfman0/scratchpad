@@ -1,0 +1,234 @@
+---
+title: "Naruto 2002 rename plan"
+date: 2026-10-17 12:20:35 +0000
+author: hermes
+---
+
+# Naruto (2002) rename plan (209 files, episodes 1-220)
+
+Absolute number → TheTVDB aired order. Multi-episode files use `SxxEyy-Ezz` (Plex and Kodi both list each episode, playing the same file). Old `Naruto Season N [Ep …]` folders removed once empty.
+
+
+## Season 01
+
+- `Naruto.001.[ANBU-AonE][ed304340].avi` → `Naruto (2002) - S01E01 - Enter - Naruto Uzumaki!.avi`
+- `Naruto.002.[ANBU-AonE][f40f1f44].avi` → `Naruto (2002) - S01E02 - My Name Is Konohamaru!.avi`
+- `Naruto.003.[ANBU-AonE][382210c3].avi` → `Naruto (2002) - S01E03 - Sasuke and Sakura - Friends or Foes.avi`
+- `Naruto.004.[ANBU-AonE][2943b5d1].avi` → `Naruto (2002) - S01E04 - Pass or Fail - Survival Test.avi`
+- `Naruto.005.[ANBU-AonE][c2dd44fb].avi` → `Naruto (2002) - S01E05 - You Failed! Kakashi's Final Decision.avi`
+- `Naruto.006.[ANBU-AonE][563a0331].avi` → `Naruto (2002) - S01E06 - A Dangerous Mission! Journey to the Land of Waves!.avi`
+- `Naruto.007.[ANBU-AonE][f3c6d774].avi` → `Naruto (2002) - S01E07 - The Assassin of the Mist!.avi`
+- `Naruto.008.[ANBU-AonE][d212fdb1].avi` → `Naruto (2002) - S01E08 - The Oath of Pain.avi`
+- `Naruto.009.[ANBU-AonE][f762395f].avi` → `Naruto (2002) - S01E09 - Kakashi - Sharingan Warrior!.avi`
+- `Naruto.010.[ANBU-AonE][96a990b7].avi` → `Naruto (2002) - S01E10 - The Forest of Chakra.avi`
+- `Naruto.011.[ANBU-AonE][032a995a].avi` → `Naruto (2002) - S01E11 - The Land Where a Hero Once Lived.avi`
+- `Naruto.012.[ANBU-AonE][388cc713].avi` → `Naruto (2002) - S01E12 - Battle on the Bridge! Zabuza Returns!.avi`
+- `Naruto.013.[ANBU-AonE][3a21962b].avi` → `Naruto (2002) - S01E13 - Haku's Secret Jutsu - Demonic Mirroring Ice Crystals.avi`
+- `Naruto.014.[ANBU-AonE][e4c4bd35].avi` → `Naruto (2002) - S01E14 - The Number One Hyperactive, Knucklehead Ninja Joins the Fight!.avi`
+- `Naruto.015.[ANBU-AonE][abb95192].avi` → `Naruto (2002) - S01E15 - Zero Visibility - The Sharingan Shatters.avi`
+- `Naruto.016.[ANBU-AonE][16c30647].avi` → `Naruto (2002) - S01E16 - The Broken Seal.avi`
+- `Naruto.017.[ANBU-AonE][e7c972b5].avi` → `Naruto (2002) - S01E17 - White Past - Hidden Ambition.avi`
+- `Naruto.018.[ANBU-AonE][eca9a8a6].avi` → `Naruto (2002) - S01E18 - The Weapons Known as Shinobi.avi`
+- `Naruto.019.[ANBU-AonE][14356e67].avi` → `Naruto (2002) - S01E19 - The Demon in the Snow.avi`
+- `Naruto.020.[ANBU-AonE][e3b0bfec].avi` → `Naruto (2002) - S01E20 - A New Chapter Begins - The Chūnin Exam!.avi`
+- `Naruto.021.[ANBU-AonE][ffd22b9e].avi` → `Naruto (2002) - S01E21 - Identify Yourself - Powerful New Rivals.avi`
+- `Naruto.022.[ANBU-AonE][fc72fc0b].avi` → `Naruto (2002) - S01E22 - Chūnin Challenge - Rock Lee vs. Sasuke!.avi`
+- `Naruto.023.[ANBU-AonE][323214f2].avi` → `Naruto (2002) - S01E23 - Genin Takedown! All Nine Rookies Face Off!.avi`
+- `Naruto.024.[ANBU-AonE][8345025a].avi` → `Naruto (2002) - S01E24 - Start Your Engines - The Chūnin Exam Begins!.avi`
+- `Naruto.025.[ANBU-AonE][4a66ab9c].avi` → `Naruto (2002) - S01E25 - The Tenth Question - All or Nothing!.avi`
+- `Naruto.026-027.[ANBU-AonE][f224ef26].avi` → `Naruto (2002) - S01E26-E27 - Special Report - Live from the Forest of Death!.avi`
+- `Naruto.028.[ANBU-AonE][387dc580].avi` → `Naruto (2002) - S01E28 - Eat or Be Eaten - Panic in the Forest.avi`
+- `Naruto.029.[ANBU-AonE][76531556].avi` → `Naruto (2002) - S01E29 - Naruto's Counterattack - Never Give In!.avi`
+- `Naruto.030.[ANBU-AonE][a91b0c61].avi` → `Naruto (2002) - S01E30 - The Sharingan Revived - Dragon-Flame Jutsu!.avi`
+- `Naruto.031.[ANBU-AonE][7af85c29].avi` → `Naruto (2002) - S01E31 - Bushy Brow's Pledge - Undying Love and Protection.avi`
+- `Naruto.032.[ANBU-AonE][4d42281a].avi` → `Naruto (2002) - S01E32 - Sakura Blossoms!.avi`
+- `Naruto.033.[ANBU-AonE][a831b7db].avi` → `Naruto (2002) - S01E33 - Battle Formation - Ino-Shika-Cho!.avi`
+- `Naruto.034.[ANBU-AonE][7f018581].avi` → `Naruto (2002) - S01E34 - Akamaru Trembles - Gaara's Cruel Strength!.avi`
+- `Naruto.035.[ANBU-AonE][4e9d14bd].avi` → `Naruto (2002) - S01E35 - The Scroll's Secret - No Peeking Allowed.avi`
+
+## Season 02
+
+- `Naruto.036.[ANBU-AonE][eff73f52].avi` → `Naruto (2002) - S02E01 - Clone vs. Clone - Mine Are Better Than Yours!.avi`
+- `Naruto.037.[ANBU-AonE][f64cc80f].avi` → `Naruto (2002) - S02E02 - Surviving the Cut! The Rookie Nine Together Again!.avi`
+- `Naruto.038.[ANBU-AonE][b5db27fd].avi` → `Naruto (2002) - S02E03 - Narrowing the Field - Sudden Death Elimination!.avi`
+- `Naruto.039.[ANBU-AonE][66400d5f].avi` → `Naruto (2002) - S02E04 - Bushy Brow's Jealousy - Lions Barrage Unleashed!.avi`
+- `Naruto.040.[ANBU-AonE][03d464ba].avi` → `Naruto (2002) - S02E05 - Kakashi and Orochimaru - Face-to-Face!.avi`
+- `Naruto.041.[ANBU-AonE][38f26464].avi` → `Naruto (2002) - S02E06 - Kunoichi Rumble - The Rivals Get Serious!.avi`
+- `Naruto.042.[ANBU-AonE][1ca1a261].avi` → `Naruto (2002) - S02E07 - The Ultimate Battle - Cha!.avi`
+- `Naruto.043.[ANBU-AonE][3811cbb5].avi` → `Naruto (2002) - S02E08 - Killer Kunoichi and a Shaky Shikamaru.avi`
+- `Naruto.044.[ANBU-AonE][319fd9f5].avi` → `Naruto (2002) - S02E09 - Akamaru Unleashed! Who's Top Dog Now.avi`
+- `Naruto.045.[ANBU-AonE][eb7343e5].avi` → `Naruto (2002) - S02E10 - Surprise Attack! Naruto's Secret Weapon!.avi`
+- `Naruto.046.[ANBU-AonE][754e9d55].avi` → `Naruto (2002) - S02E11 - Byakugan Battle - Hinata Grows Bold!.avi`
+- `Naruto.047.[ANBU-AonE][7033bfd1].avi` → `Naruto (2002) - S02E12 - A Failure Stands Tall!.avi`
+- `Naruto.048.[ANBU-AonE][0ad76631].avi` → `Naruto (2002) - S02E13 - Gaara vs. Rock Lee - The Power of Youth Explodes!.avi`
+- `Naruto.049.[ANBU-AonE][8d17ed9f].avi` → `Naruto (2002) - S02E14 - Lee's Hidden Strength - Forbidden Secret Jutsu!.avi`
+- `Naruto.050.[ANBU-AonE][782127be].avi` → `Naruto (2002) - S02E15 - The Fifth Gate - A Splendid Ninja Is Born.avi`
+- `Naruto.051.[ANBU-AonE][7fe2d769].avi` → `Naruto (2002) - S02E16 - A Shadow in the Darkness - Danger Approaches Sasuke.avi`
+- `Naruto.052.[ANBU-AonE][b010f419].avi` → `Naruto (2002) - S02E17 - Ebisu Returns - Naruto's Toughest Training Yet!.avi`
+- `Naruto.053.[ANBU-AonE][91e90297].avi` → `Naruto (2002) - S02E18 - Long Time No See - Jiraiya Returns!.avi`
+- `Naruto.054.[ANBU-AonE][384427dc].avi` → `Naruto (2002) - S02E19 - The Summoning Jutsu - Wisdom of the Pervy Sage!.avi`
+- `Naruto.055.[ANBU-AonE][2a677c0a].avi` → `Naruto (2002) - S02E20 - A Feeling of Yearning, a Flower Full of Hope.avi`
+- `Naruto.056.[ANBU-AonE][63b22b09].avi` → `Naruto (2002) - S02E21 - Live or Die - Risk It All to Win It All!.avi`
+- `Naruto.057.[ANBU-AonE][0a0f0bde].avi` → `Naruto (2002) - S02E22 - He Flies! He Jumps! He Lurks! Chief Toad Appears!.avi`
+- `Naruto.058.[ANBU-AonE][ebcebad8].avi` → `Naruto (2002) - S02E23 - Hospital Besieged - The Evil Hand Revealed!.avi`
+- `Naruto.059.[ANBU-AonE][4ab5bea6].avi` → `Naruto (2002) - S02E24 - The Final Rounds - Rush to the Battle Arena!.avi`
+- `Naruto.060.[ANBU-AonE][39cfcfc4].avi` → `Naruto (2002) - S02E25 - Byakugan vs. Shadow Clone Technique!.avi`
+- `Naruto.061.[ANBU-AonE][9dd77e4e].avi` → `Naruto (2002) - S02E26 - Ultimate Defense - Zero Blind Spot!.avi`
+- `Naruto.062.[ANBU-AonE][ef31c3cc].avi` → `Naruto (2002) - S02E27 - A Failure's True Power.avi`
+- `Naruto.063.[ANBU-AonE][ece2e811].avi` → `Naruto (2002) - S02E28 - Hit It or Quit It - The Final Rounds Get Complicated!.avi`
+- `Naruto.064.[ANBU-AonE][dd010b7b].avi` → `Naruto (2002) - S02E29 - Zero Motivation - The Guy with Cloud Envy!.avi`
+- `Naruto.065.[ANBU-AonE][0f68c0be].avi` → `Naruto (2002) - S02E30 - Dancing Leaf, Squirming Sand.avi`
+- `Naruto.066-067.[ANBU-AonE][e3f26eac].avi` → `Naruto (2002) - S02E31-E32 - Bushy Brow's Jutsu - Sasuke Style!.avi`
+- `Naruto.068.[ANBU-AonE][f2dc488e].avi` → `Naruto (2002) - S02E33 - Zero Hour! The Destruction of the Hidden Leaf Village Begins!.avi`
+- `Naruto.069.[ANBU-AonE][750f42e7].avi` → `Naruto (2002) - S02E34 - Village in Distress - A New A-Ranked Mission!.avi`
+- `Naruto.070.[ANBU-AonE][b38d600f].avi` → `Naruto (2002) - S02E35 - A Shirker's Call to Action - A Layabout No More!.avi`
+- `Naruto.071.[ANBU-AonE][cee3a56e].avi` → `Naruto (2002) - S02E36 - An Unrivaled Match - Hokage Battle Royale!.avi`
+- `Naruto.072.[ANBU-AonE][9b1d62bb].avi` → `Naruto (2002) - S02E37 - A Mistake from the Past - A Face Revealed!.avi`
+- `Naruto.073.[ANBU-AonE][7e803a6d].avi` → `Naruto (2002) - S02E38 - Forbidden Secret Technique - Reaper Death Seal!.avi`
+- `Naruto.074.[ANBU-AonE][490285dd].avi` → `Naruto (2002) - S02E39 - Astonishing Truth! Gaara's Identity Emerges!.avi`
+- `Naruto.075.[ANBU-AonE][c3a96fbc].avi` → `Naruto (2002) - S02E40 - Sasuke's Decision - Pushed to the Edge!.avi`
+- `Naruto.076.[ANBU-AonE][84519024].avi` → `Naruto (2002) - S02E41 - Assassin of the Moonlit Night.avi`
+- `Naruto.077.[ANBU-AonE][0ac05da2].avi` → `Naruto (2002) - S02E42 - Light vs. Dark - The Two Faces of Gaara.avi`
+- `Naruto.078.[ANBU-AonE][35530fe2].avi` → `Naruto (2002) - S02E43 - Naruto's Ninja Handbook.avi`
+- `Naruto.079.[ANBU-AonE][615804db].avi` → `Naruto (2002) - S02E44 - Beyond the Limit of Darkness and Light.avi`
+- `Naruto.080.[ANBU-AonE][b7fd4e79].avi` → `Naruto (2002) - S02E45 - The Third Hokage, Forever….avi`
+- `Naruto.081.[ANBU-AonE][4a95aad2].avi` → `Naruto (2002) - S02E46 - Return of the Morning Mist.avi`
+- `Naruto.082.[ANBU-AonE][4d5f2941].avi` → `Naruto (2002) - S02E47 - Eye to Eye - Sharingan vs. Sharingan!.avi`
+- `Naruto.083.[ANBU-AonE][6fcfcc8e].avi` → `Naruto (2002) - S02E48 - Jiraiya - Naruto's Potential Disaster!.avi`
+
+## Season 03
+
+- `Naruto.084.[ANBU-AonE][47d87090].avi` → `Naruto (2002) - S03E01 - Roar, Chidori! Brother vs. Brother!.avi`
+- `Naruto.085.[ANBU-AonE][207aea85].avi` → `Naruto (2002) - S03E02 - Hate Among the Uchihas - The Last of the Clan!.avi`
+- `Naruto.086.[ANBU-AonE][eb9f2d79].avi` → `Naruto (2002) - S03E03 - A New Training Begins - I Will Be Strong!.avi`
+- `Naruto.087.[ANBU-AonE][c647f184].avi` → `Naruto (2002) - S03E04 - Keep on Training - Pop Goes the Water Balloon!.avi`
+- `Naruto.088.[ANBU-AonE][352c9a21].avi` → `Naruto (2002) - S03E05 - Focal Point - The Mark of the Leaf.avi`
+- `Naruto.089.[ANBU-AonE][891d446f].avi` → `Naruto (2002) - S03E06 - An Impossible Choice - The Pain Within Tsunade's Heart.avi`
+- `Naruto.090.[ANBU-AonE][9de6b62e].avi` → `Naruto (2002) - S03E07 - Unforgivable! A Total Lack of Respect!.avi`
+- `Naruto.091.[ANBU-AonE][06662429].avi` → `Naruto (2002) - S03E08 - Inheritance! The Necklace of Death!.avi`
+- `Naruto.092.[ANBU-AonE][5e341faa].avi` → `Naruto (2002) - S03E09 - A Dubious Offer! Tsunade's Choice!.avi`
+- `Naruto.093.[ANBU-AonE][a807ae75].avi` → `Naruto (2002) - S03E10 - Breakdown! The Deal Is Off!.avi`
+- `Naruto.094.[ANBU-AonE][d12852d2].avi` → `Naruto (2002) - S03E11 - Attack! Fury of the Rasengan!.avi`
+- `Naruto.095-096.[AonE][61d5663b].avi` → `Naruto (2002) - S03E12-E13 - The Fifth Hokage! A Life on the Line!.avi`
+- `Naruto.097.[AonE][7586be00].avi` → `Naruto (2002) - S03E14 - Kidnapped! Naruto's Hot Spring Adventure!.avi`
+- `Naruto.098.[AonE][6915f004].avi` → `Naruto (2002) - S03E15 - Tsunade's Warning - Ninja No More!.avi`
+- `Naruto.099.[AonE][21ad704c].avi` → `Naruto (2002) - S03E16 - The Will of Fire Still Burns!.avi`
+- `Naruto.100.[AonE][3b624050].avi` → `Naruto (2002) - S03E17 - Sensei and Student - The Bond of the Shinobi.avi`
+- `Naruto.101.[AonE][15c5e60e].avi` → `Naruto (2002) - S03E18 - Gotta See! Gotta Know! Kakashi-Sensei's True Face!.avi`
+- `Naruto.102.[AonE][140F6474].avi` → `Naruto (2002) - S03E19 - Mission - Help an Old Friend in the Land of Tea.avi`
+- `Naruto.103.[AonE][a1df6f1a].avi` → `Naruto (2002) - S03E20 - The Race Is On! Trouble on the High Seas!.avi`
+- `Naruto.104.[AonE][7a50f662].avi` → `Naruto (2002) - S03E21 - Run Idate, Run! Nagi Island Awaits!.avi`
+- `Naruto.105.[AonE][39db07ae].avi` → `Naruto (2002) - S03E22 - A Fierce Battle of Rolling Thunder!.avi`
+- `Naruto.106.[AonE][f5dc6ba4].avi` → `Naruto (2002) - S03E23 - The Last Leg - A Final Act of Desperation.avi`
+- `Naruto.107.[AonE][70bbd3c7].avi` → `Naruto (2002) - S03E24 - The Battle Begins - Naruto vs. Sasuke.avi`
+- `Naruto.108.[ANBU-AonE][95aeed31].avi` → `Naruto (2002) - S03E25 - Bitter Rivals and Broken Bonds.avi`
+- `Naruto.109.[ANBU-AonE][29d22a52].avi` → `Naruto (2002) - S03E26 - An Invitation from the Sound.avi`
+- `Naruto.110-111.[ANBU-AonE][97e01bd2].avi` → `Naruto (2002) - S03E27-E28 - Formation! The Sasuke Retrieval Squad.avi`
+- `Naruto.112.[ANBU-AonE][68e27594].avi` → `Naruto (2002) - S03E29 - Squad Mutiny - Everything Falls Apart!.avi`
+- `Naruto.113.[ANBU-AonE][419da428].avi` → `Naruto (2002) - S03E30 - Full Throttle Power! Choji, Ablaze!.avi`
+- `Naruto.114.[ANBU-AonE][8c70357d].avi` → `Naruto (2002) - S03E31 - Good-bye Old Friend…! I'll Always Believe in You!.avi`
+- `Naruto.115.[ANBU-AonE][bd365879].avi` → `Naruto (2002) - S03E32 - Your Opponent Is Me!.avi`
+- `Naruto.116-117.[ANBU-AonE][dbb98db3].avi` → `Naruto (2002) - S03E33-E34 - 360 Degrees of Vision - The Byakugan's Blind Spot.avi`
+- `Naruto.118.[ANBU-AonE][4c6d3e23].avi` → `Naruto (2002) - S03E35 - The Vessel Arrives Too Late.avi`
+- `Naruto.119.[ANBU-AonE][e421346a].avi` → `Naruto (2002) - S03E36 - Miscalculation - A New Enemy Appears!.avi`
+- `Naruto.120.[ANBU-AonE][3f7e67eb].avi` → `Naruto (2002) - S03E37 - Roar and Howl! The Ultimate Tag Team.avi`
+- `Naruto.121.[ANBU-AonE][d5b4fed0].avi` → `Naruto (2002) - S03E38 - To Each His Own Battle.avi`
+- `Naruto.122.[AonE][53271409].avi` → `Naruto (2002) - S03E39 - Fakeout - Shikamaru's Comeback!.avi`
+- `Naruto.123.[AonE][c25a14e5].avi` → `Naruto (2002) - S03E40 - The Leaf's Handsome Devil!.avi`
+- `Naruto.124.[AonE][f63dc534].avi` → `Naruto (2002) - S03E41 - The Beast Within.avi`
+- `Naruto.125.[AonE][94d80eb2].avi` → `Naruto (2002) - S03E42 - The Sand Shinobi - Allies of the Leaf.avi`
+- `Naruto.126.[AonE][bbea5bad].avi` → `Naruto (2002) - S03E43 - Showdown - Gaara vs. Kimimaro!.avi`
+- `Naruto.127-128.[AonE][14a7d845].avi` → `Naruto (2002) - S03E44-E45 - Vengeful Strike! The Bracken Dance.avi`
+- `Naruto.129.[AonE][26b2c49c].avi` → `Naruto (2002) - S03E46 - Brothers - Distance Among the Uchiha.avi`
+- `Naruto.130.[AonE][3f610641].avi` → `Naruto (2002) - S03E47 - Father and Son, the Broken Crest.avi`
+- `Naruto.131.[AonE][4c0c7063].avi` → `Naruto (2002) - S03E48 - The Secrets of the Mangekyō Sharingan.avi`
+
+## Season 04
+
+- `Naruto.132.[AonE][bc3f2003].avi` → `Naruto (2002) - S04E01 - For a Friend.avi`
+- `Naruto.133.[AonE][85af2d64].avi` → `Naruto (2002) - S04E02 - A Plea from a Friend.avi`
+- `Naruto.134.[AonE][ffcd8eec].avi` → `Naruto (2002) - S04E03 - The End of Tears.avi`
+- `Naruto.135.[AonE][dcbe3e26].avi` → `Naruto (2002) - S04E04 - The Promise That Could Not Be Kept.avi`
+- `Naruto.136.[AonE][d61a7003].avi` → `Naruto (2002) - S04E05 - Deep Cover! A Super S-Ranked Mission!.avi`
+- `Naruto.137.[AonE][eb0c46a7].avi` → `Naruto (2002) - S04E06 - A Town of Outlaws, the Shadow of the Fuma Clan.avi`
+- `Naruto.138.[AonE][4b475086].avi` → `Naruto (2002) - S04E07 - Pure Betrayal, and a Fleeting Plea!.avi`
+- `Naruto.139.[AonE][52aa1d75].avi` → `Naruto (2002) - S04E08 - Pure Terror! The House of Orochimaru.avi`
+- `Naruto.140.[AonE][f3564a60].avi` → `Naruto (2002) - S04E09 - Two Heartbeats - Kabuto's Trap.avi`
+- `Naruto.141.[AonE][e856897c].avi` → `Naruto (2002) - S04E10 - Sakura's Determination.avi`
+- `Naruto.142.[AonE][a96a4b42].avi` → `Naruto (2002) - S04E11 - The Three Villains from the Maximum Security Prison.avi`
+- `Naruto.143.[AonE][0d301e38].avi` → `Naruto (2002) - S04E12 - Tonton! I'm Counting on You!.avi`
+- `Naruto.144.[AonE][79cfdac0].avi` → `Naruto (2002) - S04E13 - A New Squad! Two People and a Dog!.avi`
+- `Naruto.145.[AonE][cddd7a02].avi` → `Naruto (2002) - S04E14 - A New Formation - Ino-Shika-Cho!.avi`
+- `Naruto.146.[DB][9c5059cd].avi` → `Naruto (2002) - S04E15 - Orochimaru's Shadow.avi`
+- `Naruto.147-148.[DB][8141e7f9].avi` → `Naruto (2002) - S04E16-E17 - A Clash of Fate - You Can't Bring Me Down.avi`
+- `Naruto.149.[DB][c56d051b].avi` → `Naruto (2002) - S04E18 - What's the Difference Don't All Insects Look Alike.avi`
+- `Naruto.150.v2.[DB][397e261f].avi` → `Naruto (2002) - S04E19 - A Battle of Bugs - The Deceivers and the Deceived.avi`
+- `Naruto.151.[DB][28551611].avi` → `Naruto (2002) - S04E20 - Blaze Away, Byakugan! This Is My Ninja Way.avi`
+- `Naruto.152.[DB][854debea].avi` → `Naruto (2002) - S04E21 - Funeral March for the Living.avi`
+- `Naruto.153.[DB][c66af676].avi` → `Naruto (2002) - S04E22 - A Lesson Learned - The Iron Fist of Love.avi`
+- `Naruto.154.[DB][eff76c27].avi` → `Naruto (2002) - S04E23 - The Enemy of the Byakugan.avi`
+- `Naruto.155.[DB][0772cfce].avi` → `Naruto (2002) - S04E24 - The Dark Creeping Clouds.avi`
+- `Naruto.156.[DB][ee11c961].avi` → `Naruto (2002) - S04E25 - Raiga's Counterattack.avi`
+- `Naruto.157.[DB][9db9d32b].avi` → `Naruto (2002) - S04E26 - Run! The Curry of Life.avi`
+- `Naruto.158.[DB][e4ff5e09].avi` → `Naruto (2002) - S04E27 - Everyone, Come with Me! Great Sweat and Tears Survival Plan.avi`
+- `Naruto.159.[DB][c7e23ea5].avi` → `Naruto (2002) - S04E28 - Bounty Hunter from the Wilderness.avi`
+- `Naruto.160.[DB][6c01d3b2].avi` → `Naruto (2002) - S04E29 - Hunt or Be Hunted! Showdown at the O.K. Temple!.avi`
+- `Naruto.161.[DB][f07e6b9f].avi` → `Naruto (2002) - S04E30 - The Appearance of Strange Visitors.avi`
+- `Naruto.162.[DB][5d442187].avi` → `Naruto (2002) - S04E31 - The Cursed Warrior.avi`
+- `Naruto.163.[DB][179be87b].avi` → `Naruto (2002) - S04E32 - The Tactician's Intent.avi`
+- `Naruto.164.[DB][2dad8c0b].avi` → `Naruto (2002) - S04E33 - Too Late for Help.avi`
+- `Naruto.165.[DB][01353900].avi` → `Naruto (2002) - S04E34 - The Death of Naruto.avi`
+- `Naruto.166-167.[DB][4b3b6770].avi` → `Naruto (2002) - S04E35-E36 - When Time Stands Still.avi`
+- `Naruto.168.[DB][93cde458].avi` → `Naruto (2002) - S04E37 - Mix It, Stretch It, Boil It Up! Burn, Copper Pot, Burn!.avi`
+- `Naruto.169.[DB][94a7d0a1].avi` → `Naruto (2002) - S04E38 - Remembrance - The Lost Page.avi`
+- `Naruto.170.[DB][3766277f].avi` → `Naruto (2002) - S04E39 - The Closed Door.avi`
+- `Naruto.171.[DB][f324d446].avi` → `Naruto (2002) - S04E40 - Infiltration - The Set-Up!.avi`
+- `Naruto.172.[DB][3cfa50fb].avi` → `Naruto (2002) - S04E41 - Despair - A Fractured Heart.avi`
+- `Naruto.173.[DB][ee9caa63].avi` → `Naruto (2002) - S04E42 - The Battle at Sea - The Power Unleashed!.avi`
+- `Naruto.174.[DB][652743b7].avi` → `Naruto (2002) - S04E43 - Impossible! Celebrity Ninja Art - Money-Style Jutsu!.avi`
+- `Naruto.175.[DB][ca82ef92].avi` → `Naruto (2002) - S04E44 - The Treasure Hunt Is On!.avi`
+- `Naruto.176.[DB][d6659d67].avi` → `Naruto (2002) - S04E45 - Run, Dodge, Zigzag! Chase or Be Chased!.avi`
+- `Naruto.177.[DB][fd0f75de].avi` → `Naruto (2002) - S04E46 - Please, Mr. Postman!.avi`
+- `Naruto.178.[DB][0c664880].avi` → `Naruto (2002) - S04E47 - Encounter! The Boy with a Star's Name.avi`
+- `Naruto.179.[DB][660203dc].avi` → `Naruto (2002) - S04E48 - The Remembered Lullaby.avi`
+
+## Season 05
+
+- `Naruto.180.[DB][cbbbe38a].avi` → `Naruto (2002) - S05E01 - Hidden Jutsu! The Price of the Ninja Art - Kujaku.avi`
+- `Naruto.181.[DB][aa81c51f].avi` → `Naruto (2002) - S05E02 - Hoshikage - The Buried Truth.avi`
+- `Naruto.182.[DB][55e404f9].avi` → `Naruto (2002) - S05E03 - Reunion - The Remaining Time.avi`
+- `Naruto.183.[DB][0b261899].avi` → `Naruto (2002) - S05E04 - The Star's Radiance.avi`
+- `Naruto.184.v2.[DB][162128ba].avi` → `Naruto (2002) - S05E05 - Kiba's Long Day!.avi`
+- `Naruto.185.[DB][d6a91fa1].avi` → `Naruto (2002) - S05E06 - A Legend from the Hidden Leaf - The Onbaa!.avi`
+- `Naruto.186.v2.[DB][f9416b22].avi` → `Naruto (2002) - S05E07 - Laughing Shino.avi`
+- `Naruto.187.[DB][41f56877].avi` → `Naruto (2002) - S05E08 - Open for Business! The Leaf Moving Service.avi`
+- `Naruto.188.[DB][c75e7923].avi` → `Naruto (2002) - S05E09 - Mystery of the Targeted Merchants.avi`
+- `Naruto.189.[DB][2856ca96].avi` → `Naruto (2002) - S05E10 - A Limitless Supply of Ninja Tools.avi`
+- `Naruto.190.[DB][39119b6c].avi` → `Naruto (2002) - S05E11 - The Byakugan Sees the Blind Spot.avi`
+- `Naruto.191.[DB][e7923cb9].avi` → `Naruto (2002) - S05E12 - Forecast - Death! Cloudy with Chance of Sun.avi`
+- `Naruto.192.[DB][b41ec78f].avi` → `Naruto (2002) - S05E13 - Ino Screams! Chubby Paradise!.avi`
+- `Naruto.193.[DB][8bbd60bf].avi` → `Naruto (2002) - S05E14 - Viva Dojo Challenge! Youth Is All About Passion!.avi`
+- `Naruto.194.[DB][05d99a25].avi` → `Naruto (2002) - S05E15 - The Mysterious Curse of the Haunted Castle.avi`
+- `Naruto.195.[DB][bffe78cb].avi` → `Naruto (2002) - S05E16 - The Third Super-Beast!.avi`
+- `Naruto.196.[DB][ea9f2205].avi` → `Naruto (2002) - S05E17 - Hot-Blooded Confrontation - Student vs. Sensei.avi`
+- `Naruto.197.[DB][dfb5f598].avi` → `Naruto (2002) - S05E18 - Crisis! The Hidden Leaf 11 Gather!.avi`
+- `Naruto.198.[DB][639aaddc].avi` → `Naruto (2002) - S05E19 - The ANBU Gives Up Naruto's Recollection.avi`
+- `Naruto.199.[DB][0e7c67d6].avi` → `Naruto (2002) - S05E20 - The Missed Target.avi`
+- `Naruto.200.[DB][00016dc4].avi` → `Naruto (2002) - S05E21 - The Powerful Helper.avi`
+- `Naruto.201.v2.[DB][6815724c].avi` → `Naruto (2002) - S05E22 - Multiple Traps! Countdown to Destruction.avi`
+- `Naruto.202.[DB][7275e72b].avi` → `Naruto (2002) - S05E23 - The Top 5 Ninja Battles.avi`
+- `Naruto.203-204-205.[DB][0569376b].avi` → `Naruto (2002) - S05E24-E25-E26 - Kurenai's Decision - Squad 8 Left Behind.avi`
+- `Naruto.206.[DB][e009d660].avi` → `Naruto (2002) - S05E27 - Genjutsu or Reality.avi`
+- `Naruto.207.[DB][987469ec].avi` → `Naruto (2002) - S05E28 - The Supposed Sealed Ability.avi`
+- `Naruto.208.[DB][fe66cc19].avi` → `Naruto (2002) - S05E29 - The Weight of the Prized Artifact!.avi`
+- `Naruto.209.[DB][98016a36].avi` → `Naruto (2002) - S05E30 - The Enemy - Ninja Dropouts.avi`
+- `Naruto.210.[DB][da977bae].avi` → `Naruto (2002) - S05E31 - The Bewildering Forest.avi`
+- `Naruto.211.[DB][2da48585].avi` → `Naruto (2002) - S05E32 - Memory of Flames.avi`
+- `Naruto.212.[DB][8f9ac7a7].avi` → `Naruto (2002) - S05E33 - To Each His Own Path.avi`
+- `Naruto.213.[DB][cdbf8417].avi` → `Naruto (2002) - S05E34 - Vanished Memories.avi`
+- `Naruto.214-215.[DB][17fd3888].avi` → `Naruto (2002) - S05E35-E36 - Bringing Back Reality.avi`
+- `Naruto.216.[DB][c9b6d4f2].avi` → `Naruto (2002) - S05E37 - The Targeted Shukaku.avi`
+- `Naruto.217.[DB][e08e2346].avi` → `Naruto (2002) - S05E38 - Sand Alliance with the Leaf Shinobi.avi`
+- `Naruto.218.[DB][69a93375].avi` → `Naruto (2002) - S05E39 - The Counterattack!.avi`
+- `Naruto.219.[DB][aae3db21].avi` → `Naruto (2002) - S05E40 - The Ultimate Weapon Reborn.avi`
+- `Naruto.220.[DB][64ce1037].avi` → `Naruto (2002) - S05E41 - Departure.avi`
