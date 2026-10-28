@@ -1,0 +1,228 @@
+---
+title: "Movie audio audit"
+date: 2026-10-28 03:39:41 +0000
+author: hermes
+---
+
+# Movie audio audit (812 files)
+
+Scanned every file in /Movies (extras folders skipped). English verified by transcribing samples from each track Whisper-side, not just by tags.
+
+## A. English track exists but is not the only default (86 files; flag-only fix, no remux)
+
+- **Air Force One (1997)** — default now: fre; English = track 2
+- **Captain America Brave New World (2025)** — default now: none; English = track 1
+- **Captain America Civil War (2016)** — default now: fre; English = track 4
+- **Captain America The First Avenger (2011)** — default now: tur; English = track 2
+- **Cats and Dogs 2 The Revenge Of Kitty Galore (2010)** — default now: none; English = track 1
+- **Chisum (1970)** — default now: none; English = track 1
+- **Despicable Me 3 (2017)** — default now: fre; English = track 2
+- **Dolittle (2020)** — default now: none; English = track 1
+- **Drunken Master (1978)** — default now: chi; English = track 2
+- **Elemental (2023)** — default now: ita; English = track 2
+- **Elvis (1979)** — default now: none; English = track 1
+- **Elvis (2022)** — default now: none; English = track 1
+- **Ender's Game (2013)** — default now: fre; English = track 2
+- **Fearless (2006)** — default now: fre; English = track 2
+- **Fist of Fury (1972)** — default now: chi; English = track 2
+- **Freakier Friday (2025)** — default now: eng+ger; English = track 1
+- **Game of Death (1978)** — default now: fre; English = track 2
+- **Hamnet (2025)** — default now: eng+eng; English = track 1
+- **Home (2015)** — default now: heb; English = track 2
+- **Home Alone (1990)** — default now: vie; English = track 2
+- **Hotel Transylvania 2 (2015)** — default now: ita; English = track 2
+- **House of Flying Daggers (2004)** — default now: fre; English = track 3
+- **Ice Age A Mammoth Christmas (2011)** — default now: vie; English = track 2
+- **Indiana Jones and the Dial of Destiny (2023)** — default now: fre; English = track 3
+- **Indiana Jones and the Kingdom of the Crystal Skull (2008)** — default now: fre; English = track 2
+- **Iron Man (2008)** — default now: none; English = track 2
+- **Iron Man 2 (2010)** — default now: fre; English = track 2
+- **Jumanji The Next Level (2019)** — default now: none; English = track 1
+- **Jurassic World Dominion (2022)** — default now: none; English = track 1
+- **Jurassic World Fallen Kingdom (2018)** — default now: fre; English = track 2
+- **Mean Girls (2004)** — default now: eng+eng; English = track 1
+- **Newsies (1992)** — default now: none; English = track 1
+- **Now You See Me Now You Don't (2025)** — default now: fre; English = track 2
+- **Now You See Me Now You Dont (2025)** — default now: none; English = track 1
+- **Oldboy (2003)** — default now: kor; English = track 2
+- **Once Upon a Time in China (1991)** — default now: chi; English = track 2
+- **PAW Patrol The Mighty Movie (2023)** — default now: none; English = track 1
+- **Patriot Games (1992)** — default now: none; English = track 1
+- **Pokémon 3 The Movie (2000)** — default now: none; English = track 1
+- **Pokémon Lucario and the Mystery of Mew (2005)** — default now: jpn; English = track 2
+- **Pokémon the Movie 2000 (1999)** — default now: jpn; English = track 2
+- **Return Of The Five Deadly Venoms (1978)** — default now: zho; English = track 2
+- **Rio (2011)** — default now: ita; English = track 2
+- **Robin Hood Men in Tights (1993)** — default now: fre; English = track 2
+- **Shaolin vs Lama (1983)** — default now: chi; English = track 2
+- **Shrek Forever After (2010)** — default now: chi; English = track 3
+- **Sing (2016)** — default now: none; English = track 1
+- **Spectre (2015)** — default now: vie; English = track 3
+- **Spider-Man Homecoming (2017)** — default now: fre+eng; English = track 2
+- **Spider-Man Into the Spider-Verse (2018)** — default now: fre; English = track 2
+- **Spirit Riding Free Spirit of Christmas (2019)** — default now: fre; English = track 2
+- **Star Trek (2009)** — default now: fre; English = track 2
+- **Star Trek Into Darkness (2013)** — default now: fre; English = track 2
+- **Starship Troopers (1997)** — default now: fre; English = track 2
+- **Taylor Swift - Eras Tour (2023)** — default now: none; English = track 1
+- **The 36th Chamber of Shaolin (1978)** — default now: chi; English = track 2
+- **The 8 Diagram Pole Fighter (1984)** — default now: chi; English = track 2 (only commentary tagged English)
+- **The Batman (2022)** — default now: fre; English = track 2
+- **The Boss Baby (2017)** — default now: eng+dan; English = track 1
+- **The Bourne Identity (2002)** — default now: none; English = track 1
+- **The Garfield Movie (2024)** — default now: chi; English = track 1
+- **The Godfather (1972)** — default now: none; English = track 1
+- **The Godfather Part II (1974)** — default now: vie; English = track 2
+- **The Green Knight (2021)** — default now: none; English = track 1
+- **The Hunger Games (2012)** — default now: und; English = track 1
+- **The Incredible Hulk (2008)** — default now: eng+und; English = track 1
+- **The Jungle Book (1994)** — default now: none; English = track 1
+- **The Legend of Drunken Master (1994)** — default now: chi; English = track 2
+- **The Lorax (2012)** — default now: none; English = track 2
+- **The Lord of the Rings The War of the Rohirrim (2024)** — default now: spa; English = track 2
+- **The Pianist (2002)** — default now: fre; English = track 2
+- **The Prestige (2006)** — default now: fre; English = track 2
+- **The Silver Brumby (1993)** — default now: none; English = track 1
+- **The Super Mario Bros. Movie (2023)** — default now: none; English = track 1
+- **The Swan Princess Princess Tomorrow, Pirate Today! (2016)** — default now: none; English = track 1
+- **Thor (2011)** — default now: fre; English = track 2
+- **Tin Cup (1996)** — default now: fre; English = track 2
+- **Toy Story 3 (2010)** — default now: none; English = track 1
+- **Transformers (2007)** — default now: fre; English = track 2
+- **Transformers Age of Extinction (2014)** — default now: fre; English = track 2
+- **Turning Red (2022)** — default now: fre; English = track 2
+- **Willy Wonka & the Chocolate Factory (1971)** — default now: fre; English = track 3
+- **Wish (2023)** — default now: fre; English = track 2
+- **X-Men (2000)** — default now: ita; English = track 2
+- **Zootopia (2016)** — default now: none; English = track 1
+- **Zootopia 2 (2025)** — default now: fre; English = track 1
+
+## B. No English track (12 files; original language only)
+
+- **The Warlords (2007)** — chi; English subs: yes
+- **Seven Samurai (1954)** — jpn; English subs: NO
+- **Shaolin (2011)** — vie, zho; English subs: yes
+- **Red Cliff Part II (2009)** — chi; English subs: yes
+- **Fist of Legend (1994)** — chi; English subs: yes
+- **Executioners from Shaolin (1977)** — mdr; English subs: NO
+- **Your Name. (2016)** — jpn; English subs: yes
+- **Blade of the Immortal (2017)** — jpn; English subs: yes
+- **Late Shift (2025)** — ger, gsw; English subs: NO
+- **Once Upon a Time in China III (1993)** — chi; English subs: yes
+- **Red Cliff (2008)** — chi; English subs: yes
+- **Ocean Waves (1994)** — jpn, chi; English subs: yes
+
+## C. Foreign dub audio that can be removed (English present; 54 files, ~33 GB est.)
+
+- **Air Force One (1997)** — remove: fre
+- **Avengers Endgame (2019)** — remove: fre, fre
+- **Captain America Civil War (2016)** — remove: fre, fre, fre
+- **Captain America The First Avenger (2011)** — remove: tur
+- **Despicable Me (2010)** — remove: dut
+- **Despicable Me 2 (2013)** — remove: dut
+- **Despicable Me 3 (2017)** — remove: fre
+- **Elemental (2023)** — remove: ita
+- **Encanto (2021)** — remove: dan, fin, nor, swe
+- **Ender's Game (2013)** — remove: fre
+- **Fearless (2006)** — remove: fre
+- **Freakier Friday (2025)** — remove: ger
+- **Game of Death (1978)** — remove: fre
+- **Home (2015)** — remove: heb
+- **Home Alone (1990)** — remove: vie
+- **Hotel Transylvania 2 (2015)** — remove: ita
+- **House of Flying Daggers (2004)** — remove: fre
+- **Ice Age A Mammoth Christmas (2011)** — remove: vie
+- **Indiana Jones and the Dial of Destiny (2023)** — remove: fre, fre
+- **Indiana Jones and the Kingdom of the Crystal Skull (2008)** — remove: fre
+- **Iron Man (2008)** — remove: fre
+- **Iron Man 2 (2010)** — remove: fre
+- **Jurassic World Fallen Kingdom (2018)** — remove: fre
+- **Miraculous - Ladybug & Cat Noir The Movie (2023)** — remove: hin, tam, tel
+- **My Father's Dragon (2022)** — remove: rum
+- **My Neighbor Totoro (1988)** — remove: vie
+- **Now You See Me Now You Don't (2025)** — remove: fre
+- **Pokémon Kyurem vs. the Sword of Justice (2012)** — remove: swe, dan, nor, fin
+- **Rio (2011)** — remove: ita
+- **Robin Hood Men in Tights (1993)** — remove: fre
+- **Spectre (2015)** — remove: vie, vie
+- **Spider-Man Homecoming (2017)** — remove: fre
+- **Spider-Man Into the Spider-Verse (2018)** — remove: fre
+- **Spirit Riding Free Spirit of Christmas (2019)** — remove: fre
+- **Star Trek (2009)** — remove: fre
+- **Star Trek Into Darkness (2013)** — remove: fre
+- **Starship Troopers (1997)** — remove: fre
+- **The Batman (2022)** — remove: fre
+- **The Boss Baby (2017)** — remove: dan, fin, nor, swe
+- **The Godfather Part II (1974)** — remove: vie
+- **The Lorax (2012)** — remove: fre
+- **The Lord of the Rings The War of the Rohirrim (2024)** — remove: spa
+- **The Pianist (2002)** — remove: fre
+- **The Prestige (2006)** — remove: fre
+- **Thor (2011)** — remove: fre
+- **Tin Cup (1996)** — remove: fre
+- **Transformers (2007)** — remove: fre
+- **Transformers Age of Extinction (2014)** — remove: fre
+- **Turning Red (2022)** — remove: fre
+- **Willy Wonka & the Chocolate Factory (1971)** — remove: fre, fre
+- **Wish (2023)** — remove: fre
+- **X-Men (2000)** — remove: ita
+- **Zootopia (2016)** — remove: fre, spa
+- **Zootopia 2 (2025)** — remove: fre
+
+## D. Original-language audio kept alongside English (jpn/chi/kor; 55 files). Your call
+
+- Castle in the Sky (1986) — jpn
+- Cowboy Bebop The Movie (2001) — jpn, jpn
+- Drunken Master (1978) — chi
+- Dynasty Warriors (2021) — chi
+- Fearless (2006) — chi
+- Fist of Fury (1972) — chi
+- From Up on Poppy Hill (2011) — jpn
+- Gattaca (1997) — chi
+- Ghost in the Shell (1995) — jpn
+- Grave of the Fireflies (1988) — jpn, chi, chi
+- House of Flying Daggers (2004) — chi
+- Howl's Moving Castle (2004) — jpn
+- Kiki's Delivery Service (1989) — jpn
+- Master of the Flying Guillotine (1977) — chi
+- Mission Impossible III (2006) — chi
+- Moana 2 (2024) — chi, chi, chi
+- My Neighbor Totoro (1988) — jpn
+- My Neighbors the Yamadas (1999) — jpn
+- Nausicaä of the Valley of the Wind (1984) — jpn
+- Ne Zha (2019) — chi
+- Ninja Scroll (1993) — jpn
+- Oldboy (2003) — kor
+- Once Upon a Time in China (1991) — chi
+- Only Yesterday (1991) — jpn, chi, chi
+- Pokémon 3 The Movie (2000) — jpn
+- Pokémon Kyurem vs. the Sword of Justice (2012) — jpn
+- Pokémon Lucario and the Mystery of Mew (2005) — jpn
+- Pokémon Secrets of the Jungle (2020) — jpn
+- Pokémon the Movie 2000 (1999) — jpn
+- Pom Poko (1994) — jpn
+- Ponyo (2008) — jpn
+- Porco Rosso (1992) — jpn
+- Princess Mononoke (1997) — jpn, jpn
+- Return Of The Five Deadly Venoms (1978) — zho
+- Shaolin vs Lama (1983) — chi
+- Shazam! Fury of the Gods (2023) — chi
+- Shrek Forever After (2010) — chi, chi
+- Spirited Away (2001) — jpn
+- Steamboy (2004) — jpn
+- Tales from Earthsea (2006) — jpn
+- Terminator 3 Rise of the Machines (2003) — chi
+- The 36th Chamber of Shaolin (1978) — chi
+- The 8 Diagram Pole Fighter (1984) — chi
+- The Boy and the Heron (2023) — jpn
+- The Castle of Cagliostro (1979) — jpn
+- The Cat Returns (2002) — jpn
+- The Garfield Movie (2024) — chi
+- The Good Dinosaur (2015) — chi, chi
+- The Legend of Drunken Master (1994) — chi
+- The Lord of the Rings The Fellowship of the Ring (2001) — chi
+- The Secret World of Arrietty (2010) — jpn
+- The Tale of The Princess Kaguya (2013) — jpn, chi, chi
+- The Wind Rises (2013) — jpn, chi, chi
+- When Marnie Was There (2014) — jpn
+- Whisper of the Heart (1995) — jpn, chi, chi
